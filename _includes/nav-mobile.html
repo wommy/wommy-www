@@ -1,1 +1,5 @@
-<a href="../index.html">home</a><span>Experience</span><a href="../experience/branding.html">Branding</a><a href="../experience/clients.html">Clients</a><a href="../experience/resume.html">Resume</a><span>Experiments</span><a href="../experiments/feed.html">Feed</a><a href="../experiments/grid.html">Grid</a><a href="../media.html">Media</a>
+{% for ea in nav %}
+{%- if ea.url %}<a href="..{{ ea.url }}.html">{% else %}<span>{% endif -%}
+		{{ ea.name }}
+{%- if ea.url %}</a>{% else %}</span>{% endif -%}
+{% endfor %}
