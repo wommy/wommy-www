@@ -1,19 +1,7 @@
-<!doctype html>
-<html lang="en">
-    <head>
-        <!-- Title block allowing child pages to override -->
-        <title>{{title}}</title>
-        <link rel="shortcut icon" type="image/ico" href="../favicon.ico" />
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <!-- Styles -->
-        <link href="../assets/css/app.min.css" rel="stylesheet" type="text/css" media="all"/>
-        <link href="../assets/css/app-screen.min.css" rel="stylesheet" type="text/css" media="all"/>
-        <!-- Style block allowing child pages to inject their own styles -->
-        
-    </head>
-    <body>
-        <!-- Include -->
-        <nav id="mobileNav" onclick="toggle( 'toggleMe' )">
+{% extends 'Dot2.html' %}
+
+{%- block nav -%}
+<nav id="mobileNav" onclick="toggle( 'toggleMe' )">
 	<img src='../assets/img/hamburger.svg' id="hamburger"/>
 	<nav id="toggleMe" style="display:none;">
 		<a href="../index.html">home</a><span>Experience</span><a href="../experience/branding.html">Branding</a><a href="../experience/clients.html">Clients</a><a href="../experience/resume.html">Resume</a><span class="selected">Experiments</span><a href="feed.html">Feed</a><a href="grid.html" class="selected">Grid</a><a href="../media.html">Media</a>
@@ -25,14 +13,6 @@
 	
 	{% include 'nav-social.html' -%}
 </div>
-        
-        <!-- Content block, child page inject content -->
-        <div id='content'>
-            
+        {% endblock %}
+
 {{ content | safe }}
-        </div>
-        <!-- Script block allowing child pages to inject their own scripts -->
-        
-        <script src="../assets/scripts/app.min.js"></script>
-    </body>
-</html>
