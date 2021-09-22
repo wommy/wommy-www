@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <title>{{title}}</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="/assets/css/app.min.css" rel="stylesheet" type="text/css" media="all"/>
+        <link href="/assets/css/app-screen.min.css" rel="stylesheet" type="text/css" media="all"/>
+    </head>
+    <body>
+        {% include 'post-navMobi.html' -%}
+        {% include 'post-navMain.html' -%}
+        <div id='content'>
+            {{ content | safe }}
+        </div>
+        <script src="/assets/scripts/app.min.js"></script>
+    </body>
+</html>
