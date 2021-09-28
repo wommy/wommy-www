@@ -1,6 +1,10 @@
 ---
 layout: _test
-title: todo-tm
+title: todo
 ---
 
-<p>yup</p>
+<ol class="stack" reversed>
+	{%- for ea in todo_tm | reverse %}
+	<li>{{ ea }}</li>
+	{%- endfor %}
+</ol>

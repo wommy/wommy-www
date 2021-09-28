@@ -1,0 +1,12 @@
+---
+layout: _test
+title: marx
+---
+
+<ol class="stack" reversed>
+	{%- for ea in marx_tm | reverse %}
+	<li>
+		<a href="{{ ea.url }}">{{ ea.title }}</a>
+	</li>
+	{%- endfor %}
+</ol>
