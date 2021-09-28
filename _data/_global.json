@@ -1,8 +1,10 @@
 {
 	"phone": "312-818-9011",
 	"email": "tom@technomad.media",
-	"facebook": "https://www.facebook.com/Froggie92",
-	"twitter": "http://twitter.com/froggie92",
-	"googleplus": "https://plus.google.com/u/0/118102255716845472363/posts",
-	"instagram": "https://instagram.com/wommytilliams/"
+	"social": {
+		"facebook": "facebook.com/Froggie92",
+		"twitter": "twitter.com/froggie92",
+		"googleplus": "plus.google.com/u/0/118102255716845472363/posts",
+		"instagram": "instagram.com/wommytilliams/"
+	}
 }

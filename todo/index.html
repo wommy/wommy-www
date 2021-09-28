@@ -1,6 +1,16 @@
----
-layout: test
----
+{% extends '_base.html' %}
 
+{% block style %}
+<link href="/assets/css/app2.css" rel="stylesheet" />
+<link href="/assets/css/app-screen3.css" rel="stylesheet" />
+{% endblock %}
+
+{% block script %}
+<script src="/assets/scripts/toggle.js"></script>
+<script src="/assets/scripts/confirm.js"></script>
+{% endblock %}
+
+{% block content %}
 <h1>working</h1>
 <p>yup</p>
+{% endblock %}
