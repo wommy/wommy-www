@@ -1,0 +1,60 @@
+<nav id="mobileNav" onclick="toggle()">
+  <img src='/assets/img/hamburger.svg' id="hamburger" class=""/>
+  <nav id="toggleMe" class="burger">
+    {% for ea in nav %}
+    {%- if ea.url %}<a href="/{{ ea.url }}.html">{% else %}<span>{% endif -%}
+      {{ ea.name }}
+    {%- if ea.url %}</a>{% else %}</span>{% endif -%}
+    {% endfor %}
+  </nav>
+</nav>
+
+<div id="mainNav">
+  <nav>
+    <h2><a href="/">home</a></h2>
+
+    <h2><span>experience</span></h2>
+    <nav>
+      {% for ea in ['branding','clients','resume'] %}
+      <h2><a href="/experience/{{ ea }}">{{ ea }}</a></h2>
+      {% endfor %}
+    </nav>
+
+    <h2><span>experiments</span></h2>
+    <nav>
+      {% for ea in ['feed','grid'] %}
+      <h2><a href="/experiments/{{ ea }}">{{ ea }}</a></h2>
+      {% endfor %}
+    </nav>
+
+    <h2><a href="/media">media</a></h2>
+
+    <h2 style="visibility:hidden;">spacer</h2>
+    
+    <h2><span>wip</span></h2>
+    <nav>
+      {%- for ea in ['rd','blog','todo','marx'] %}
+      <h2><a href="/{{ ea }}">{{ ea }}</a></h2>
+      {%- endfor %}
+    </nav>
+  </nav>
+
+  <nav id='social'>
+
+    <h2>contact</h2>
+    
+    <a href='mailto:{{ _global.email }}?Subject=Job | from wommy.io' target="blank">
+      <img class='social' src='/assets/img/social/email.svg'>
+      <h2>{{ _global.email }}</h2>
+    </a>
+
+    {% for key, url in _global.social %}
+    <a href onclick="noDiscriminate('https://{{ url }}')">
+      <img class='social' src='/assets/img/social/{{ key }}.svg'>
+      <h2>{{ key }}</h2>
+    </a>
+    {% endfor %}
+
+  </nav>
+
+</div>
