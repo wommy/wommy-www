@@ -22,7 +22,7 @@ module.exports = async function() {
 
 		// realized fs uses a buffer
 		// https://stackabuse.com/encoding-and-decoding-base64-strings-in-node-js/
-		require('fs').writeFileSync('./rd/cy4n.md', buff)
+		// require('fs').writeFileSync('./rd/cy4n.md', buff)
 
 	} catch (e) {
 		console.error(e)
