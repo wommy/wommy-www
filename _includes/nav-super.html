@@ -28,16 +28,9 @@
     </nav>
 
     <h2><a href="/media">media</a></h2>
-
-    <h2 style="visibility:hidden;">spacer</h2>
-    
-    <h2><span>wip</span></h2>
-    <nav>
-      {%- for ea in ['rd','blog','todo','marx'] %}
-      <h2><a href="/{{ ea }}">{{ ea }}</a></h2>
-      {%- endfor %}
-    </nav>
   </nav>
+
+  {% include 'nav-new.html' %}
 
   <nav id='social'>
 

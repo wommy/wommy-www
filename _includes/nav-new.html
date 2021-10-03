@@ -1,5 +1,10 @@
-<nav style="margin-top:3rem;">
-  {%- for ea in ['rd','blog','todo','marx'] %}
-  <h2><a href="/{{ ea }}">{{ ea | upper }}</a></h2>
-  {%- endfor %}
+<br />
+    
+<nav>
+  <h2 class="navItem"><span>new</span></h2>
+  <nav>
+    {%- for ea in ['rd','blog','todo','marx'] %}
+    <h2 class="navItem"><a href="/{{ ea }}">{{ ea }}</a></h2>
+    {%- endfor %}
+  </nav>
 </nav>
