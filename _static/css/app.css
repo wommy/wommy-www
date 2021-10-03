@@ -50,19 +50,6 @@ blockquote{
 		text-align:left;
 	}
 
-	#subnav{
-		position:absolute;
-		top:0;
-		left:10.5rem;
-		border-right:none;
-		z-index:-1;
-	}
-
-		#subnav .pinned{
-			border-bottom:dashed .125rem #EEE;
-			padding:.25rem;
-		}
-
 		nav a, nav h2, h2 span{
 			display:block;
 			padding:.125rem .5rem;
@@ -107,12 +94,7 @@ blockquote{
 		.selected{
 			background-color:white;
 			border-radius:.25rem;
-			/*border-right:dashed .125rem #EEE;*/
 		}
-
-			.selected a{
-				border-right:none;
-			}
 
 	a img, a h2, h2 a{
 		display:inline;
