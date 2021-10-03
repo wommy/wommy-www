@@ -2,9 +2,9 @@
     
 <nav>
   <h2><span>new</span></h2>
-  <nav>
-    {%- for ea in ['rd','blog','todo','marx','test'] %}
-    <h2><a href="/{{ ea }}">{{ ea }}</a></h2>
-    {%- endfor %}
-  </nav>
+  {{ collections.all | eleventyNavigation | eleventyNavigationToHtml({
+    listElement: 'nav', 
+    listItemElement: 'h2', 
+    activeListItemClass: 'selected' }) 
+  | safe }}
 </nav>

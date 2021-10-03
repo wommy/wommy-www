@@ -4,6 +4,7 @@ title: test
 templateEngineOverride: njk,md
 eleventyNavigation:
   key: test
+  order: 5
 nav11tyOptions:
   listElement: nav
   listItemElement: h2
