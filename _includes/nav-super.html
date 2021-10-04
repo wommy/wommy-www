@@ -41,12 +41,14 @@
       <h2>{{ _global.email }}</h2>
     </a>
 
+{# TODO: replace with form?
     {% for key, url in _global.social %}
     <a href onclick="noDiscriminate('https://{{ url }}')">
       <img class='social' src='/assets/img/social/{{ key }}.svg'>
       <h2>{{ key }}</h2>
     </a>
     {% endfor %}
+#}
 
   </nav>
 
