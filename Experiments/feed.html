@@ -1,19 +1,9 @@
 ---
 permalink: experiments/feed.html
 title: 'feed'
+dots: '../'
 ---
 {% extends '_base.html' %}
-
-{% block head %}
-        <!-- Title block allowing child pages to override -->
-        <title>{{ title }}</title>
-        <link rel="shortcut icon" type="image/ico" href="../favicon.ico" />
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <!-- Styles -->
-        <link href="../assets/css/app.min.css" rel="stylesheet" type="text/css" media="all"/>
-        <link href="../assets/css/app-screen.min.css" rel="stylesheet" type="text/css" media="all"/>
-        <!-- Style block allowing child pages to inject their own styles -->
-{% endblock %}
 
 {% block nav %}
         <!-- Include -->
