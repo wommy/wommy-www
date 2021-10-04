@@ -18,5 +18,8 @@
 {# hacky #}        {# hacky #}
         
 				{%- block content %}{{ content | safe }}{% endblock -%}
-{# hacky #}    </body>
+{# hacky #}        <!-- Script block allowing child pages to inject their own scripts -->
+        
+        <script src="{{ dots }}assets/scripts/app.min.js"></script>
+    </body>
 </html>
