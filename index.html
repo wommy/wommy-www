@@ -1,9 +1,6 @@
----
-permalink: index.html
----
-<!doctype html>
-<html lang="en">
-    <head>
+{% extends '_base.html' %}
+
+{% block head %}
         <!-- Title block allowing child pages to override -->
         <title>wommytilliams</title>
         <link rel="shortcut icon" type="image/ico" href="favicon.ico" />
@@ -12,9 +9,9 @@ permalink: index.html
         <link href="assets/css/app.min.css" rel="stylesheet" type="text/css" media="all"/>
         <link href="assets/css/app-screen.min.css" rel="stylesheet" type="text/css" media="all"/>
         <!-- Style block allowing child pages to inject their own styles -->
-        
-    </head>
-    <body>
+{% endblock %}
+
+{% block nav %}
         <!-- Include -->
         <nav id="mobileNav" onclick="toggle( 'toggleMe' )">
 	<img src='assets/img/hamburger.svg' id="hamburger"/>
@@ -52,7 +49,9 @@ permalink: index.html
 	</a>
 </nav>
 </div>
+{% endblock %}
         
+{% block content %}
         <!-- Content block, child page inject content -->
         <div id='content'>
             
@@ -255,5 +254,4 @@ but you have to know your number, use calc above</p>
         <!-- Script block allowing child pages to inject their own scripts -->
         
         <script src="assets/scripts/app.min.js"></script>
-    </body>
-</html>
+{% endblock %}

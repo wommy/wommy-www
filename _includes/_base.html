@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en">
+    <head>
+				{%- block head %}{% endblock -%}
+{# hacky #}        
+    </head>
+    <body>
+				{%- block nav %}{% endblock -%}
+{# hacky #}        {# hacky #}
+        
+				{%- block content %}{{ content | safe }}{% endblock -%}
+{# hacky #}    </body>
+</html>
