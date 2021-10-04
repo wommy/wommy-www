@@ -55,8 +55,11 @@
 </div>
 {% endblock -%}
 {# hacky #}        {# hacky #}
-        
+        <!-- Content block, child page inject content -->
+        <div id='content'>
 				{%- block content %}{{ content | safe }}{% endblock -%}
+
+{# hacky #}        </div>
 {# hacky #}        <!-- Script block allowing child pages to inject their own scripts -->
         
         <script src="{{ dots }}assets/scripts/app.min.js"></script>
