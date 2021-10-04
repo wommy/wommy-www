@@ -16,13 +16,12 @@
         <nav id="mobileNav" onclick="toggle( 'toggleMe' )">
 	<img src='../assets/img/hamburger.svg' id="hamburger"/>
 	<nav id="toggleMe" style="display:none;">
-		{% include 'nav-mobile-media.html' -%}
-{# hacky #}	</nav>
+		<a href="../index.html">home</a><span>Experience</span><a href="../experience/branding.html">Branding</a><a href="../experience/clients.html">Clients</a><a href="../experience/resume.html">Resume</a><span>Experiments</span><a href="../experiments/feed.html">Feed</a><a href="../experiments/grid.html">Grid</a><a href="../media.html" class="selected">Media</a>
+	</nav>
 </nav>
         <div id="mainNav">
 	
-	{% include 'nav-main-media.html' -%}
-{# hacky #}	
+	<nav><h2><a href="../index.html">Home</a></h2><h2><span>Experience</span><nav><h2><a href="../experience/branding.html">Branding</a></h2><h2><a href="../experience/clients.html">Clients</a></h2><h2><a href="../experience/resume.html">Resume</a></h2></nav></h2><h2><span>Experiments</span><nav><h2><a href="../experiments/feed.html">Feed</a></h2><h2><a href="../experiments/grid.html">Grid</a></h2></nav></h2><h2 class="selected"><a href="../media.html" class="selected">Media</a></h2></nav>
 	{% include 'nav-social.html' -%}
 </div>
         
