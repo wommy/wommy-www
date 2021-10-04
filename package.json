@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "build": "yarn eleventy",
-    "start": "yarn build --serve"
+    "start": "yarn build --serve --incremental --quiet"
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1"
