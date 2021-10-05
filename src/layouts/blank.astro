@@ -1,4 +1,5 @@
 ---
+const {title} = Astro.props
 ---
 <html lang="en">
 
@@ -6,11 +7,63 @@
 	<meta charset="utf-8" />
 	<link rel="icon" type="image/x-icon" href="/favicon.ico" />
 	<meta name="viewport" content="width=device-width" />
-	<title>Welcome to Astro</title>
+	<title>{ title }</title>
+	<link href="css/app.min.css" rel="stylesheet" type="text/css" media="all"/>
+	<link href="css/app-screen.min.css" rel="stylesheet" type="text/css" media="all"/>
 </head>
 
 <body>
-	<h1>Welcome to <a href="https://astro.build/">Astro</a></h1>
+	<nav id="mobileNav" onclick="toggle( 'toggleMe' )">
+		<img src='/img/hamburger.svg' id="hamburger"/>
+		<nav id="toggleMe" style="display:none;">
+
+			<slot name="navMobile">
+				<a href="index.html" class="selected">home</a><span>Experience</span><a href="experience/branding.html">Branding</a><a href="experience/clients.html">Clients</a><a href="experience/resume.html">Resume</a><span>Experiments</span><a href="experiments/feed.html">Feed</a><a href="experiments/grid.html">Grid</a><a href="media.html">Media</a>
+			</slot>
+
+		</nav>
+	</nav>
+	<div id="mainNav">
+
+		<slot name="navMain">
+			<nav><h2 class="selected"><a href="index.html" class="selected">Home</a></h2><h2><span>Experience</span><nav><h2><a href="experience/branding.html">Branding</a></h2><h2><a href="experience/clients.html">Clients</a></h2><h2><a href="experience/resume.html">Resume</a></h2></nav></h2><h2><span>Experiments</span><nav><h2><a href="experiments/feed.html">Feed</a></h2><h2><a href="experiments/grid.html">Grid</a></h2></nav></h2><h2><a href="media.html">Media</a></h2></nav>
+		</slot>
+		
+		<nav id='social'>
+			<h2>contact</h2>
+			
+			<a href='mailto:tom@technomad.media?Subject=Job | from wommytilliams.com' target="_blank">
+				<img class='social' src='img/social/email.svg'>
+				<h2>tom@technomad.media</h2>
+			</a>
+			
+			<a href='#' onclick=" noDiscriminate(' https://www.facebook.com/Froggie92 ') ">
+				<img class='social' src='/img/social/facebook.svg'>
+				<h2>facebook</h2>
+			</a>
+			<a href='#' onclick=" noDiscriminate(' http://twitter.com/froggie92 ') ">
+				<img class='social' src='/img/social/twitter.svg'>
+				<h2>twitter</h2>
+			</a>
+			<a href='#' onclick=" noDiscriminate(' https://plus.google.com/u/0/118102255716845472363/posts ') ">
+				<img class='social' src='/img/social/google-plus.svg'>
+				<h2>google+</h2>
+			</a>
+			<a href='#' onclick=" noDiscriminate(' https://instagram.com/wommytilliams/ ') ">
+				<img class='social' src='/img/social/instagram.svg'>
+				<h2>instagram</h2>
+			</a>
+		</nav>
+	</div>
+
+	<div id='content'>
+            
+		<slot></slot>
+
+	</div>
+
+	<!-- Script block allowing child pages to inject their own scripts -->
+	<script src="/scripts/app.min.js"></script>
 </body>
 
 </html>
