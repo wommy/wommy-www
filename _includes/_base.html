@@ -1,7 +1,6 @@
 <!doctype html>
 <html lang="en">
     <head>
-				{%- block head %}
         <!-- Title block allowing child pages to override -->
         <title>{{ title }}</title>
         <link rel="shortcut icon" type="image/ico" href="{{ dots }}favicon.ico" />
@@ -10,23 +9,16 @@
         <link href="{{ dots }}assets/css/app.min.css" rel="stylesheet" type="text/css" media="all"/>
         <link href="{{ dots }}assets/css/app-screen.min.css" rel="stylesheet" type="text/css" media="all"/>
         <!-- Style block allowing child pages to inject their own styles -->
-{% endblock -%}
-{# hacky #}        
+        
     </head>
     <body>
-				{%- block nav %}
         <!-- Include -->
         <nav id="mobileNav" onclick="toggle( 'toggleMe' )">
 	<img src='{{ dots }}assets/img/hamburger.svg' id="hamburger"/>
-	<nav id="toggleMe" style="display:none;">
-      {%- block navMobile %}{% endblock -%}
-{# hacky #}	</nav>
+	<nav id="toggleMe" style="display:none;">{% block navMobile %}{% endblock %}	</nav>
 </nav>
         <div id="mainNav">
-	{# hacky #}
-	{%- block navMain %}{% endblock -%}
-
-{# hacky #}	
+	{% block navMain %}{% endblock %}	
 	<nav id='social'>
 	<h2>contact</h2>
 	
@@ -53,14 +45,10 @@
 	</a>
 </nav>
 </div>
-{% endblock -%}
-{# hacky #}        {# hacky #}
+        
         <!-- Content block, child page inject content -->
-        <div id='content'>
-				{%- block content %}{{ content | safe }}{% endblock -%}
-
-{# hacky #}        </div>
-{# hacky #}        <!-- Script block allowing child pages to inject their own scripts -->
+        <div id='content'>{% block content %}{{ content | safe }}{% endblock %}        </div>
+        <!-- Script block allowing child pages to inject their own scripts -->
         
         <script src="{{ dots }}assets/scripts/app.min.js"></script>
     </body>
