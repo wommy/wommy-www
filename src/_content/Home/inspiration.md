@@ -22,6 +22,6 @@ and a few websites that have inspired me.
 
 and a few quotes that have inspired me
 
-[![](https://i.imgur.com/0MAncfi.png)](https://i.imgur.com/0MAncfi.png)
+[![](https://i.imgur.com/0MAncfi.png)](https://i.imgur.com/0MAncfi.png)  
 <!-- https://www.reddit.com/r/terencemckenna/comments/32rp8t/a_quote_that_really_grabbed_me_from_terences/ -->
 
