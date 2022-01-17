@@ -1,6 +1,4 @@
 ---
-permalink: home/introduction.html
-layout: _post
 ---
             
 <p><img src="/assets/img/wommyBig.jpg" class="wommyImg" /></p>

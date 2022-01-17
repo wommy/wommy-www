@@ -1,6 +1,4 @@
 ---
-permalink: media/createafreshpath.html
-layout: _media
 ---
 
 {% block content %}

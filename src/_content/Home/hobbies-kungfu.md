@@ -1,6 +1,4 @@
 ---
-permalink: hobbies/kungfu.html
-layout: _post
 ---
             
 ive been practicing kungfu for over a year now

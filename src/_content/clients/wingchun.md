@@ -1,6 +1,4 @@
 ---
-permalink: clients/wingchun.html
-layout: _post
 ---
             
 i've been practicing kungfu for over a year now  

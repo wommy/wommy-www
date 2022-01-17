@@ -1,6 +1,4 @@
 ---
-permalink: clients/geraldhaman.html
-layout: _post
 ---
             
 bio

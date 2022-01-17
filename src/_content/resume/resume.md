@@ -1,6 +1,4 @@
 ---
-permalink: resume/resume.html
-layout: _post
 ---
             
 <!-- 

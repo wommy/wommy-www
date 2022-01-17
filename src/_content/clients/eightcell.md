@@ -1,6 +1,4 @@
 ---
-permalink: clients/eightcell.html
-layout: _post
 ---
 
 > _the most simple / efficient way_  

@@ -1,6 +1,4 @@
 ---
-permalink: hobbies/biking.html
-layout: _post
 ---
             
 this will be my 6th year biking in chicago

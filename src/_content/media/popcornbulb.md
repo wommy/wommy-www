@@ -1,6 +1,4 @@
 ---
-permalink: media/popcornbulb.html
-layout: _media
 ---
 
 {% block content %}

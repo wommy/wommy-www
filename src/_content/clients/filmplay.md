@@ -1,6 +1,4 @@
 ---
-permalink: clients/filmplay.html
-layout: _post
 ---
 
 the **Detroit Culture Club** contacted me  

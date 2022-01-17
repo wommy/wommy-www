@@ -1,6 +1,4 @@
 ---
-permalink: clients/nickpizana.html
-layout: _post
 ---
             
 an extremely talented artist  

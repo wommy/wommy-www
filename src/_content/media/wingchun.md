@@ -1,6 +1,4 @@
 ---
-permalink: media/wingchun.html
-layout: _media
 ---
 
 {% block content %}

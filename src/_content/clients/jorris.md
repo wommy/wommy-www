@@ -1,6 +1,4 @@
 ---
-permalink: clients/jorris.html
-layout: _post
 ---
             
 > lived next to me my sophomore year at columbia  

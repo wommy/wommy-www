@@ -1,6 +1,4 @@
 ---
-permalink: media/jorris.html
-layout: _media
 ---
 
 {% block content %}

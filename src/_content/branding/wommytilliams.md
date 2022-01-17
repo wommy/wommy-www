@@ -1,6 +1,4 @@
 ---
-permalink: branding/wommytilliams.html
-layout: _post
 ---
             
 my name has evolved numerous times throughout my life

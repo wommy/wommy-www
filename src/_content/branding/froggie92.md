@@ -1,6 +1,4 @@
 ---
-permalink: branding/froggie92.html
-layout: _post
 ---
             
 froggie92 came about via [runescape](https://runescape.com)

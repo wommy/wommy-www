@@ -1,6 +1,4 @@
 ---
-permalink: inspiration/inspiration.html
-layout: _post
 ---
             
 here i want to list a few words that my design exemplifies

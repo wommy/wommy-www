@@ -1,6 +1,4 @@
 ---
-permalink: hobbies/psych.html
-layout: _post
 ---
             
 my psych career is long and winding
