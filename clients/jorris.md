@@ -3,19 +3,15 @@ permalink: clients/jorris.html
 layout: _post
 ---
             
-<blockquote>
-  <p>lived next to me my sophomore year at columbia<br />
-cinematographer<br />
-currently in australia</p>
-</blockquote>
+> lived next to me my sophomore year at columbia  
+> cinematographer  
+> currently in australia
 
-<p>i designed and developed his website<br />
-which he has since personally tweaked</p>
+i designed and developed his website  
+which he has since personally tweaked
 
-<blockquote>
-  <p><a href="http://aparadi.se">aparadi.se</a></p>
-</blockquote>
+> [aparadi.se](https://aparadi.se)
 
-<p>i also acted in some videos for him<br />
-find them on my media page <a href="../media.html#john orris originals">here</a></p>
+i also acted in some videos for him  
+find them on my media page [here](../media.html#john-orris-originals)
 

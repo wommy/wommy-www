@@ -3,33 +3,33 @@ permalink: branding/wommytilliams.html
 layout: _post
 ---
             
-<p>my name has evolved numerous times throughout my life</p>
+my name has evolved numerous times throughout my life
 
-<p>in grade school, all my friends called me tommy<br />
-when i got to middle school, i shortened it to tom</p>
+in grade school, all my friends called me tommy  
+when i got to middle school, i shortened it to tom
 
-<p>i later realized that all my close friends called me tommy<br />
-so i switched my facebook name to tommy williams<br />
-over night, all the people i barely knew started addressing me as tommy</p>
+i later realized that all my close friends called me tommy  
+so i switched my facebook name to tommy williams  
+over night, all the people i barely knew started addressing me as tommy
 
-<p>the newest iteration, wommytilliams came about in college<br />
-a bad breakup was causing me to be negative</p>
+the newest iteration, wommytilliams came about in college  
+a bad breakup was causing me to be negative
 
-<p>people started joking that i had some type of alter ego<br />
-if tommy williams was dr jekyll, wommy was mr hyde </p>
+people started joking that i had some type of alter ego  
+if tommy williams was dr jekyll, wommy was mr hyde
 
-<p>“wommy” was really taking off<br />
-yet it served reference to this aspect of myself i didnt like<br />
-so i did the only thing i could and took it back</p>
+“wommy” was really taking off  
+yet it served reference to this aspect of myself i didnt like  
+so i did the only thing i could and took it back
 
-<p>i bought <a href="http://wommytilliams.com">http://wommytilliams.com</a></p>
+i bought [https://wommytilliams.com](https://wommytilliams.com)
 
-<p>wommy tilliams’ uniqueness is a double-edged sword<br />
-visually, wommy tilliams is relatively easy to get<br />
-auditorily, it sounds like a jarbled nothing </p>
+wommy tilliams’ uniqueness is a double-edged sword  
+visually, wommy tilliams is relatively easy to get  
+auditorily, it sounds like a jarbled nothing
 
-<p>brand wise<br />
-if you know tommy williams, wommy tilliams isn’t too hard to get</p>
+brand wise  
+if you know tommy williams, wommy tilliams isn’t too hard to get
 
-<p>if your first move  explain your brand, </p>
+if your first move explain your brand,
 

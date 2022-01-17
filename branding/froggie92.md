@@ -3,25 +3,16 @@ permalink: branding/froggie92.html
 layout: _post
 ---
             
-<p>froggie92 came about via <a href="http://runescape.com">runescape</a></p>
+froggie92 came about via [runescape](https://runescape.com)
 
-<blockquote>
-  <p>it was the name of the first character i created</p>
-</blockquote>
+> it was the name of the first character i created
 
-<blockquote>
-  <blockquote>
-    <p>i had two pet frogs<br />
-9 and 2 were my two favorite numbers</p>
-  </blockquote>
-</blockquote>
+> > i had two pet frogs  
+> > 9 and 2 were my two favorite numbers
 
-<p>i used this screen name for everything</p>
+i used this screen name for everything
 
-<blockquote>
-  <p>email: <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#102;&#114;&#111;&#103;&#103;&#105;&#101;&#057;&#050;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">&#102;&#114;&#111;&#103;&#103;&#105;&#101;&#057;&#050;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a><br />
-facebook: <a href="https://www.facebook.com/Froggie92">https://www.facebook.com/Froggie92</a><br />
-twitter: <a href="http://twitter.com/froggie92">http://twitter.com/froggie92</a><br />
-reddit: <a href="http://www.reddit.com/user/Froggie92/">http://www.reddit.com/user/Froggie92/</a></p>
-</blockquote>
-
+> email: [froggie92@gmail.com](mailto:froggie92@gmail.com)  
+> facebook: [https://www.facebook.com/Froggie92](https://www.facebook.com/Froggie92)  
+> twitter: [https://twitter.com/froggie92](https://twitter.com/froggie92)  
+> reddit: [https://www.reddit.com/user/Froggie92/](https://www.reddit.com/user/Froggie92/)

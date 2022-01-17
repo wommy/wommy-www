@@ -3,30 +3,22 @@ permalink: clients/nickpizana.html
 layout: _post
 ---
             
-<p>an extremely talented artist <br />
-but also a good friend from highschool</p>
+an extremely talented artist  
+but also a good friend from highschool
 
-<p>recently has been blowing up in the detroit art scene  </p>
+recently has been blowing up in the detroit art scene
 
-<blockquote>
-  <p><a href="http://www.redbull.com/us/en/stories/1331690125340/nick-pizana-at-red-bull-house-of-art">read about his installation at the Red Bull House of Art</a></p>
-</blockquote>
+> [read about his installation at the Red Bull House of Art](https://www.redbull.com/us/en/stories/1331690125340/nick-pizana-at-red-bull-house-of-art)
 
-<blockquote>
-  <p><a href="http://www.examiner.com/list/5-detroit-artists-25-or-under-to-watch-2015">1 of the 5 under 25 detroit artists to watch in 2015</a></p>
-</blockquote>
+> [1 of the 5 under 25 detroit artists to watch in 2015](https://www.examiner.com/list/5-detroit-artists-25-or-under-to-watch-2015)
 
-<p>i created and hosted a simple website for him<br />
-which we are currently overhauling </p>
+i created and hosted a simple website for him  
+which we are currently overhauling
 
-<blockquote>
-  <p><a href="nickpizana.technomad.media">nickpizana.technomad.media</a></p>
-</blockquote>
+> [nickpizana.technomad.media](//nickpizana.technomad.media)
 
-<p>follow him on social media:</p>
+follow him on social media:
 
-<blockquote>
-  <p><a href="https://www.facebook.com/nickypistheman">facebook</a><br />
-<a href="instagram.com/hyper_mutant.html">instagram ( @hyper_mutant ) </a></p>
-</blockquote>
+> [facebook](https://www.facebook.com/nickypistheman)  
+> [instagram ( @hyper_mutant )](//instagram.com/hyper_mutant.html)
 

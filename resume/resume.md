@@ -7,104 +7,82 @@ layout: _post
 <a href="../assets/resume-tommyWilliams-headshot.pdf" target="_blank">view in a new tab</a> -  <a href="../assets/resume-tommyWilliams-headshot.pdf" download>download</a>
 -->
 
-<h3>nav</h3>
-<ol>
-  <li><a href="#contact">contact</a></li>
-  <li><a href="#experience">experience</a></li>
-  <li><a href="#education">education</a></li>
-  <li><a href="#expertise">expertise</a>
-    <ul>
-      <li><a href="#ui-ux">design</a> <a href="#front">development, front end</a></li>
-      <li><a href="#back">development, back end</a></li>
-      <li><a href="#database">database</a></li>
-      <li><a href="#deployment">deployment</a></li>
-      <li><a href="#other">other</a></li>
-    </ul>
-  </li>
-  <li><a href="#hobbies">hobbies</a></li>
-</ol>
+### nav
 
-<h3><span id="contact">contact</span></h3>
+1.  [contact](#contact)
+2.  [experience](#experience)
+3.  [education](#education)
+4.  [expertise](#expertise)
+    *   [design](#ui-ux) [development, front end](#front)
+    *   [development, back end](#back)
+    *   [database](#database)
+    *   [deployment](#deployment)
+    *   [other](#other)
+5.  [hobbies](#hobbies)
 
-<blockquote>
-  <p>portfolio: <a href="http://wommytilliams.com">wommytilliams.com</a><br />
-email:   <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#116;&#111;&#109;&#064;&#116;&#101;&#099;&#104;&#110;&#111;&#109;&#097;&#100;&#046;&#109;&#101;&#100;&#105;&#097;">&#116;&#111;&#109;&#064;&#116;&#101;&#099;&#104;&#110;&#111;&#109;&#097;&#100;&#046;&#109;&#101;&#100;&#105;&#097;</a></p>
-</blockquote>
+### <span id="contact">contact</span>
+
+> portfolio: [wommytilliams.com](https://wommytilliams.com)  
+> email: [tom@technomad.media](mailto:tom@technomad.media)
 
 <!-- phone:   [312 818 9011](tel:312-818-9011)
 address:   [1426 W Chestnut #1R Chicago IL 60642](https://www.google.com/maps/place/1426+W+Chestnut+St,+Chicago,+IL+60642/@41.898204,-87.663567,17z/data=!4m2!3m1!1s0x880fd2d37995e65f:0x4a79f787069b8ac) -->
 
-<blockquote>
-  <p><em>four year goal:</em><br />
-<strong>senior full-stack developer</strong> @ <br />
-a <strong>media</strong> or <strong>ecommerce</strong> company</p>
-</blockquote>
+> _four year goal:_  
+> **senior full-stack developer** @  
+> a **media** or **ecommerce** company
 
-<h3><span id="education">education</span></h3>
-<blockquote>
-  <p><strong>depaul graduated 2015</strong><br />
-bachelor of arts: <a href="#psych">psychology</a><br />
-minor: interactive social media<br />
-dean's list: 5 quarters</p>
-</blockquote>
+### <span id="education">education</span>
 
-<blockquote>
-  <p><strong>columbia college ( 2 years )</strong><br />
-film + music composition<br />
-honor roll: 2 semesters</p>
-</blockquote>
+> **depaul graduated 2015**  
+> bachelor of arts: [psychology](#psych)  
+> minor: interactive social media  
+> dean's list: 5 quarters
 
-<h3><span id="experience">experience</span></h3>
+> **columbia college ( 2 years )**  
+> film + music composition  
+> honor roll: 2 semesters
 
-<p><strong>solution people</strong></p>
+### <span id="experience">experience</span>
 
-<blockquote>
-  <p>managed 30+ websites<br />
-    redesign<br />
-    created, edited, pushed content<br />
-    contact: <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#115;&#111;&#108;&#117;&#116;&#105;&#111;&#110;&#109;&#097;&#110;&#064;&#115;&#111;&#108;&#117;&#116;&#105;&#111;&#110;&#112;&#101;&#111;&#112;&#108;&#101;&#046;&#099;&#111;&#109;">gerald haman</a></p>
-</blockquote>
+**solution people**
 
-<p><strong>branding</strong></p>
+> managed 30+ websites  
+> redesign  
+> created, edited, pushed content  
+> contact: [gerald haman](mailto:solutionman@solutionpeople.com)
 
-<blockquote>
-  <p>froggie92<br />
-wommy tilliams<br />
-technomad</p>
-</blockquote>
+**branding**
 
-<p><strong>clients</strong></p>
+> froggie92  
+> wommy tilliams  
+> technomad
 
-<blockquote>
-  <p>x, y, z</p>
-</blockquote>
+**clients**
 
-<h3 id="ui-ux">ui-ux - minor in school</h3>
-<p><strong>?# of projects</strong></p>
+> x, y, z
 
-<p><strong>mockups / wireframes / site-mapping</strong></p>
+### <span id="ui-ux">ui-ux - minor in school</span>
 
-<ul>
-  <li><a href="https://balsamiq.com/">balsamiq</a></li>
-  <li><a href="http://www.axure.com/">axure</a></li>
-  <li><a href="http://bohemiancoding.com/sketch/">sketch</a></li>
-  <li><a href="https://atomic.io/">atomic</a></li>
-  <li>adobe - illustrator / photoshop</li>
-</ul>
+**?# of projects**
 
-<p><strong>physical media</strong></p>
+**mockups / wireframes / site-mapping**
 
-<ul>
-  <li><a href="http://en.wikipedia.org/wiki/Paper_prototyping">paper prototypes</a></li>
-  <li><a href="http://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction">human-computer interaction</a></li>
-</ul>
+*   [balsamiq](https://balsamiq.com/)
+*   [axure](https://www.axure.com/)
+*   [sketch](https://bohemiancoding.com/sketch/)
+*   [atomic](https://atomic.io/)
+*   adobe - illustrator / photoshop
 
-<p><a href="http://en.wikipedia.org/wiki/Rapid_prototyping">rapid prototyping</a></p>
+**physical media**
 
-<ul>
-  <li>agile</li>
-  <li>scrum</li>
-</ul>
+*   [paper prototypes](https://en.wikipedia.org/wiki/Paper_prototyping)
+*   [human-computer interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction)
+
+[rapid prototyping](https://en.wikipedia.org/wiki/Rapid_prototyping)
+
+*   agile
+*   scrum
 
 <!-- TODO: butts
 google
@@ -115,97 +93,70 @@ google
     http://agilemethodology.org/ 
 -->
 
-<p><strong>front end / back end :: gui / db =&gt; pass to dev</strong></p>
+**front end / back end :: gui / db => pass to dev**
 
-<h3 id="front">frontend - started 2011</h3>
-<p>HTML5</p>
+### <span id="front">frontend - started 2011</span>
 
-<ul>
-  <li><a href="http://liquidmarkup.org/">liquid</a> / <a href="http://jade-lang.com/">jade</a> / <a href="http://haml.info/">haml</a> / <a href="http://slim-lang.com/">slim</a></li>
-  <li><a href="http://getbootstrap.com/">bootstrap</a> / <a href="http://foundation.zurb.com/">foundation</a></li>
-</ul>
+HTML5
 
-<p>CSS3</p>
+*   [liquid](https://liquidmarkup.org/) / [jade](https://jade-lang.com/) / [haml](https://haml.info/) / [slim](https://slim-lang.com/)
+*   [bootstrap](https://getbootstrap.com/) / [foundation](https://foundation.zurb.com/)
 
-<ul>
-  <li><a href="http://sass-lang.com/">sass / scss</a> - <a href="http://compass-style.org/">compass</a></li>
-  <li><a href="http://lesscss.org/">less</a> / <a href="http://learnboost.github.io/stylus/">stylus</a></li>
-</ul>
+CSS3
 
-<p>JAVASCRIPT</p>
+*   [sass / scss](https://sass-lang.com/) - [compass](https://compass-style.org/)
+*   [less](https://lesscss.org/) / [stylus](https://learnboost.github.io/stylus/)
 
-<ul>
-  <li><a href="https://jquery.com/">jquery</a> / <a href="http://coffeescript.org/">coffeescript</a></li>
-  <li><a href="http://www.json.org/">json</a> / <a href="http://en.wikipedia.org/wiki/Ajax_%28programming%29">ajax</a> / <a href="http://en.wikipedia.org/wiki/Asynchronous_module_definition">amd</a></li>
-  <li><a href="http://jshint.com/">js hint</a></li>
-  <li><a href="http://threejs.org/">threejs</a></li>
-</ul>
+JAVASCRIPT
 
-<h3 id="back">backend languages / frameworks</h3>
-<p>PHP</p>
+*   [jquery](https://jquery.com/) / [coffeescript](https://coffeescript.org/)
+*   [json](https://www.json.org/) / [ajax](https://en.wikipedia.org/wiki/Ajax_%28programming%29) / [amd](https://en.wikipedia.org/wiki/Asynchronous_module_definition)
+*   [js hint](https://jshint.com/)
+*   [threejs](https://threejs.org/)
 
-<ul>
-  <li><a href="https://wordpress.org/">wordpress</a> / <a href="https://www.drupal.org/">drupal</a> / <a href="http://www.joomla.org/">joomla</a> / <a href="http://magento.com/">magento</a></li>
-  <li><a href="http://laravel.com/">laravel</a> / <a href="http://symfony.com/">symphony</a> + <a href="http://sylius.org/">sylius</a> / <a href="http://framework.zend.com/">zend</a></li>
-</ul>
+### <span id="back">backend languages / frameworks</span>
 
-<p>RUBY</p>
+PHP
 
-<ul>
-  <li><a href="http://rubyonrails.org/">rails</a> / <a href="http://jekyllrb.com/">jekyll</a></li>
-</ul>
+*   [wordpress](https://wordpress.org/) / [drupal](https://www.drupal.org/) / [joomla](https://www.joomla.org/) / [magento](https://magento.com/)
+*   [laravel](https://laravel.com/) / [symphony](https://symfony.com/) + [sylius](https://sylius.org/) / [zend](https://framework.zend.com/)
 
-<p>PYTHON</p>
+RUBY
 
-<ul>
-  <li><a href="https://www.djangoproject.com/">django</a> / <a href="http://flask.pocoo.org/">flask</a> / <a href="http://hyde.github.io/">hyde</a> / <a href="http://blog.getpelican.com/">pelican</a></li>
-</ul>
+*   [rails](https://rubyonrails.org/) / [jekyll](https://jekyllrb.com/)
 
-<p>JAVASCRIPT</p>
+PYTHON
 
-<ul>
-  <li><a href="https://angularjs.org/">angular</a> / <a href="http://backbonejs.org/">backbone</a> / <a href="http://emberjs.com/">ember</a> / <a href="http://knockoutjs.com/">knockout</a> / <a href="https://www.meteor.com/">meteor</a> / <a href="http://phantomjs.org/">phantomjs</a></li>
-  <li><a href="https://nodejs.org/">node</a>
-    <ul>
-      <li><a href="http://expressjs.com/">express</a></li>
-      <li><a href="https://ghost.org/">ghost</a></li>
-    </ul>
-  </li>
-  <li><a href="https://facebook.github.io/react/">react</a> + <a href="https://facebook.github.io/flux/">flux</a></li>
-</ul>
+*   [django](https://www.djangoproject.com/) / [flask](https://flask.pocoo.org/) / [hyde](https://hyde.github.io/) / [pelican](https://blog.getpelican.com/)
 
-<h3 id="database">database</h3>
-<ul>
-  <li><a href="http://en.wikipedia.org/wiki/SQL">mysql</a> / <a href="http://www.postgresql.org/about/">postgresql</a> / <a href="http://en.wikipedia.org/wiki/NoSQL">nosql</a>
-    <ul>
-      <li><a href="https://www.mongodb.org/">mongo</a></li>
-    </ul>
-  </li>
-</ul>
+JAVASCRIPT
 
-<h3 id="deployment">deployment</h3>
+*   [angular](https://angularjs.org/) / [backbone](https://backbonejs.org/) / [ember](https://emberjs.com/) / [knockout](https://knockoutjs.com/) / [meteor](https://www.meteor.com/) / [phantomjs](https://phantomjs.org/)
+*   [node](https://nodejs.org/)
+    *   [express](https://expressjs.com/)
+    *   [ghost](https://ghost.org/)
+*   [react](https://facebook.github.io/react/) + [flux](https://facebook.github.io/flux/)
 
-<ul>
-  <li><a href="http://requirejs.org/">require</a> / <a href="http://browserify.org/">browserify</a> / <a href="http://www.commonjs.org/">common</a> / <a href="https://www.npmjs.com/">npm</a> / <a href="http://bower.io/">bower</a></li>
-  <li><a href="http://gruntjs.com/">grunt</a> / <a href="http://gulpjs.com/">gulp</a></li>
-  <li><a href="http://yeoman.io/">yeoman</a> / <a href="https://www.vagrantup.com/">vagrant</a> / <a href="https://getcomposer.org/">composer</a> / <a href="http://capistranorb.com/">capistrano</a></li>
-</ul>
+### <span id="database">database</span>
 
-<h3 id="other">other</h3>
-<ul>
-  <li><a href="http://git-scm.com/">git</a> / <a href="http://en.wikipedia.org/wiki/Secure_Shell">ssh</a> / <a href="http://en.wikipedia.org/wiki/Transport_Layer_Security">ssl</a> / <a href="http://en.wikipedia.org/wiki/File_Transfer_Protocol">ftp</a></li>
-  <li><span id="psych">psych</span>
-    <ul>
-      <li>test creation</li>
-      <li>data collection</li>
-      <li>statistical analysis</li>
-    </ul>
-  </li>
-</ul>
+*   [mysql](https://en.wikipedia.org/wiki/SQL) / [postgresql](https://www.postgresql.org/about/) / [nosql](https://en.wikipedia.org/wiki/NoSQL)
+    *   [mongo](https://www.mongodb.org/)
 
-<h3 id="hobbies">hobbies</h3>
-<ul>
-  <li>kungfu - 1 year</li>
-  <li>biking - 6</li>
-</ul>
+### <span id="deployment">deployment</span>
 
+*   [require](https://requirejs.org/) / [browserify](https://browserify.org/) / [common](https://www.commonjs.org/) / [npm](https://www.npmjs.com/) / [bower](https://bower.io/)
+*   [grunt](https://gruntjs.com/) / [gulp](https://gulpjs.com/)
+*   [yeoman](https://yeoman.io/) / [vagrant](https://www.vagrantup.com/) / [composer](https://getcomposer.org/) / [capistrano](https://capistranorb.com/)
+
+### <span id="other">other</span>
+
+*   [git](https://git-scm.com/) / [ssh](https://en.wikipedia.org/wiki/Secure_Shell) / [ssl](https://en.wikipedia.org/wiki/Transport_Layer_Security) / [ftp](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
+*   <span id="psych">psych</span>
+    *   test creation
+    *   data collection
+    *   statistical analysis
+
+### <span id="hobbies">hobbies</span>
+
+*   kungfu - 1 year
+*   biking - 6

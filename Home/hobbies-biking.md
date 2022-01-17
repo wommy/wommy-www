@@ -3,7 +3,7 @@ permalink: hobbies/biking.html
 layout: _post
 ---
             
-<p>this will be my 6th year biking in chicago</p>
+this will be my 6th year biking in chicago
 
-<p>check out my biking video <a href="../media.html#create a fresh path">here</a></p>
+check out my biking video [here](../media.html#create-a-fresh-path)
 

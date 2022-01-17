@@ -2,74 +2,47 @@
 permalink: clients/eightcell.html
 layout: _post
 ---
-            
-<blockquote>
-  <p><em>the most simple / efficient way</em><br />
-<em>to catapault your next event</em><br />
-<em>to the stratosphere</em></p>
-</blockquote>
 
-<p>operating out of chicago, they combine digital art, projection mapping, and interactive installs to make your event out of this world.  </p>
+> _the most simple / efficient way_  
+> _to catapault your next event_  
+> _to the stratosphere_
 
-<blockquote>
-  <p><a href="https://www.facebook.com/EightCell">facebook.com/EightCell</a>  </p>
-</blockquote>
+operating out of chicago, they combine digital art, projection mapping, and interactive installs to make your event out of this world.
 
-<blockquote>
-  <p><a href="https://www.youtube.com/channel/UC4GsWU1uZAa5e3G1owi9K1g">youtube</a>  </p>
-</blockquote>
+> [facebook.com/EightCell](https://www.facebook.com/EightCell)
 
-<p>heres a site a made for them a couple years ago:  </p>
+> [youtube](https://www.youtube.com/channel/UC4GsWU1uZAa5e3G1owi9K1g)
 
-<blockquote>
-  <p><a href="http://technomad.media/8c/">technomad.media/8c/</a></p>
-</blockquote>
+heres a site a made for them a couple years ago:
 
-<p>and heres the new underconstruction site:  </p>
+> [technomad.media/8c/](https://technomad.media/8c/)
 
-<blockquote>
-  <p><a href="eightcell.tv">eightcell.tv</a></p>
-</blockquote>
+and heres the new underconstruction site:
 
-<h3>meet the team:</h3>
-<p>truman - [ sophos visuals ]  </p>
+> [eightcell.tv](//eightcell.tv)
 
-<blockquote>
-  <p><a href="https://instagram.com/sophosvisuals/">instagram.com/sophosvisuals</a>  </p>
-</blockquote>
+### meet the team:
 
-<blockquote>
-  <p><a href="https://www.facebook.com/sophos.visuals">facebook.com/sophos.visuals</a>  </p>
-</blockquote>
+truman - [ sophos visuals ]
 
-<p>bill - [ dubstompin / biww ] </p>
+> [instagram.com/sophosvisuals](https://instagram.com/sophosvisuals/)
 
-<blockquote>
-  <p><a href="instagram.com/dubstompin.html">instagram.com/dubstompin</a></p>
-</blockquote>
+> [facebook.com/sophos.visuals](https://www.facebook.com/sophos.visuals)
 
-<blockquote>
-  <p><a href="https://soundcloud.com/dubstompin">soundcloud.com/dubstompin</a></p>
-</blockquote>
+bill - [ dubstompin / biww ]
 
-<blockquote>
-  <p><a href="https://www.facebook.com/bill.pilipchuk">facebook.com/bill.pilipchuk</a><br />
- <a href="https://www.facebook.com/DubStompinChicago">facebook.com/DubStompinChicago</a><br />
- <a href="https://www.facebook.com/whosbiww">facebook.com/whosbiww</a></p>
-</blockquote>
+> [instagram.com/dubstompin](//instagram.com/dubstompin.html)
 
-<p>brandyn - [ mr Zpacely ] </p>
+> [soundcloud.com/dubstompin](https://soundcloud.com/dubstompin)
 
-<blockquote>
-  <p><a href="https://instagram.com/zpacepix/">instagram.com/zpacepix</a>  </p>
-</blockquote>
+> [facebook.com/bill.pilipchuk](https://www.facebook.com/bill.pilipchuk)  
+> [facebook.com/DubStompinChicago](https://www.facebook.com/DubStompinChicago)  
+> [facebook.com/whosbiww](https://www.facebook.com/whosbiww)
 
-<blockquote>
-  <p><a href="https://www.youtube.com/channel/UCdE8MPlhBRh1po3FbHFag8A">youtube</a>  </p>
-</blockquote>
+brandyn - [ mr Zpacely ]
 
-<blockquote>
-  <p><a href="https://www.facebook.com/brandyn.micheal">facebook</a>  </p>
-</blockquote>
+> [instagram.com/zpacepix](https://instagram.com/zpacepix/)
 
+> [youtube](https://www.youtube.com/channel/UCdE8MPlhBRh1po3FbHFag8A)
 
+> [facebook](https://www.facebook.com/brandyn.micheal)

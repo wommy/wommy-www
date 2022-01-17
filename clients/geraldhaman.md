@@ -3,10 +3,10 @@ permalink: clients/geraldhaman.html
 layout: _post
 ---
             
-<p>bio</p>
+bio
 
-<p>solutionpeople.com<br />
-thinkubators.com</p>
+solutionpeople.com  
+thinkubators.com
 
-<p><a href="media.html#popcornBulb">popcorn bulb</a></p>
+[popcorn bulb](/media.html#popcornBulb)
 

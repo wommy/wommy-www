@@ -2,28 +2,23 @@
 permalink: media/jorris.html
 title: Empty
 dots: '../'
+layout: _media
 ---
-{% extends '_base.html' %}
-
-{% block navMobile %}
-		<a href="../index.html">home</a><span>Experience</span><a href="../experience/branding.html">Branding</a><a href="../experience/clients.html">Clients</a><a href="../experience/resume.html">Resume</a><span>Experiments</span><a href="../experiments/feed.html">Feed</a><a href="../experiments/grid.html">Grid</a><a href="../media.html" class="selected">Media</a>
-{% endblock %}
-
-{% block navMain %}
-	<nav><h2><a href="../index.html">Home</a></h2><h2><span>Experience</span><nav><h2><a href="../experience/branding.html">Branding</a></h2><h2><a href="../experience/clients.html">Clients</a></h2><h2><a href="../experience/resume.html">Resume</a></h2></nav></h2><h2><span>Experiments</span><nav><h2><a href="../experiments/feed.html">Feed</a></h2><h2><a href="../experiments/grid.html">Grid</a></h2></nav></h2><h2 class="selected"><a href="../media.html" class="selected">Media</a></h2></nav>
-{% endblock %}
 
 {% block content %}
             
-<p>i've come to cherish the handful of <a href="clients.html#jOrris">John Orris'</a> films i acted in:</p>
+i've come to cherish the handful of [John Orris'](/clients.html#jOrris) films i acted in:
 
-<h3>white hot trouble</h3>
+### white hot trouble
+
 <iframe width="660" height="371" src="https://www.youtube.com/embed/6-NJz6b6XhQ?feature=oembed" frameborder="0" allowfullscreen=""></iframe>
 
-<h3>paradise shorts</h3>
+### paradise shorts
+
 <iframe src="//player.vimeo.com/video/73359740" width="660" height="371" frameborder="0" title="&quot;Paradise Shorts&quot; .01-.10" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 
-<h3>naked fierce</h3>
+### naked fierce
+
 <iframe src="//player.vimeo.com/video/106900917" width="660" height="371" frameborder="0" title="Naked - &quot;Fierce&quot;" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 
 {% endblock %}

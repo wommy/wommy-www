@@ -6,8 +6,8 @@
   "author": "wommy <tom@technomad.media>",
   "license": "MIT",
   "scripts": {
-    "build": "yarn eleventy",
-    "start": "yarn build --serve --incremental --quiet"
+    "build": "eleventy",
+    "start": "eleventy --serve --incremental --quiet"
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1"

@@ -3,26 +3,18 @@ permalink: home/introduction.html
 layout: _post
 ---
             
-<p><img src="assets/img/wommyBig.jpg" class="wommyImg" /></p>
+<p><img src="/assets/img/wommyBig.jpg" class="wommyImg" /></p>
 
-<h2>welcome to my portfolio</h2>
+## welcome to my portfolio
 
-<p>feel free to check out </p>
+feel free to check out
 
-<blockquote>
-  <p><a href="../media.html">my media</a><br />
-<a href="../experience/clients.html">my clients</a></p>
-</blockquote>
+> [my media](../media.html)  
+> [my clients](../experience/clients.html)
 
-<blockquote>
-  <p>my experiments</p>
-</blockquote>
+> my experiments
 
-<blockquote>
-  <blockquote>
-    <p><a href="../experiments/feed.html">feed</a><br />
-<a href="../experiments/grid.html">grid</a></p>
-  </blockquote>
-</blockquote>
+> > [feed](../experiments/feed.html)  
+> > [grid](../experiments/grid.html)
 
 

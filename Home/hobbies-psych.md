@@ -3,9 +3,9 @@ permalink: hobbies/psych.html
 layout: _post
 ---
             
-<p>my psych career is long and winding</p>
+my psych career is long and winding
 
-<p>my first introduction to psychology was through <a href="http://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator">myers briggs</a></p>
+my first introduction to psychology was through [myers briggs](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator)
 
 <!-- 
 growing up, 
@@ -29,13 +29,14 @@ jung dichotomy
 sharing jungian base
  -->
 
-<p>hours of trawling google led me to</p>
+hours of trawling google led me to
 
-<h3>socionics</h3>
-<p>socionics was everything i was looking for</p>
+### socionics
 
-<p>socionics' <a href="http://www.wikisocion.org/en/index.php?title=Rationality_and_irrationality#Typical_characteristics">rationality / irrationality</a> replaces mbti's judgment / perception<br />
-mbti's judgment / perception still exists within socionics, but it is instead a second level dichotomy, <a href="http://www.wikisocion.org/en/index.php?title=Static_and_dynamic#Typical_characteristics">static / dynamic</a></p>
+socionics was everything i was looking for
+
+socionics' [rationality / irrationality](https://www.wikisocion.org/en/index.php?title=Rationality_and_irrationality#Typical_characteristics) replaces mbti's judgment / perception  
+mbti's judgment / perception still exists within socionics, but it is instead a second level dichotomy, [static / dynamic](https://www.wikisocion.org/en/index.php?title=Static_and_dynamic#Typical_characteristics)
 
 <!-- this change made huge changes
 mbti's judgment / perception determines what your extraverted function is
@@ -44,55 +45,48 @@ socionics in turn explains it well
 judgment / perception exists in socionics
 but it is a second level dichotomy,  -->
 
-<p>socionics goes into much greater detail than myers briggs:</p>
+socionics goes into much greater detail than myers briggs:
 
-<blockquote>
-  <p><a href="http://www.wikisocion.org/en/index.php?title=Intertype_relations">intertype relations</a> - descriptions of interactions between types<br />
-<a href="http://www.wikisocion.org/en/index.php?title=Small_groups">small groups</a> - common ground between types<br />
-<a href="http://www.wikisocion.org/en/index.php?title=Subtypes">subtypes</a> - no two types are the same<br />
-<a href="http://www.wikisocion.org/en/index.php?title=Model_A">model a</a> - <br />
-<a href="http://www.wikisocion.org/en/index.php?title=Reinin_dichotomies">second level dichotomies</a><br />
-<a href="http://www.wikisocion.org/en/index.php?title=Information_elements">information elements</a><br />
-<a href="http://www.wikisocion.org/en/index.php?title=Functions">functions</a> which allows for <a href="http://www.wikisocion.org/en/index.php?title=Function_dichotomies">functional dichotomies</a></p>
-</blockquote>
+> [intertype relations](https://www.wikisocion.org/en/index.php?title=Intertype_relations) - descriptions of interactions between types  
+> [small groups](https://www.wikisocion.org/en/index.php?title=Small_groups) - common ground between types  
+> [subtypes](https://www.wikisocion.org/en/index.php?title=Subtypes) - no two types are the same  
+> [model a](https://www.wikisocion.org/en/index.php?title=Model_A) -  
+> [second level dichotomies](https://www.wikisocion.org/en/index.php?title=Reinin_dichotomies)  
+> [information elements](https://www.wikisocion.org/en/index.php?title=Information_elements)  
+> [functions](https://www.wikisocion.org/en/index.php?title=Functions) which allows for [functional dichotomies](https://www.wikisocion.org/en/index.php?title=Function_dichotomies)
 
 <!-- male female differentiations -->
 
-<p><a href="http://www.wikisocion.org/en/index.php?title=Information_Metabolism">information metabolism</a> - can be simplied as follows:<br />
-every action you do, is based on information.  </p>
+[information metabolism](https://www.wikisocion.org/en/index.php?title=Information_Metabolism) - can be simplied as follows:  
+every action you do, is based on information.
 
-<h3>horoscopes</h3>
+### horoscopes
 
-<p><a href="http://www.thesecretlanguage.com/today/">the secret language</a><br />
-my number one to-go-to</p>
+[the secret language](https://www.thesecretlanguage.com/today/)  
+my number one to-go-to
 
-<blockquote>
-  <p>here you can check <a href="http://www.thesecretlanguage.com/check/birthdate/">your or anothers birthday</a><br />
-( check you and a parent )<br />
-and <a href="http://www.thesecretlanguage.com/check/relationship/">your relationships with other people</a><br />
-( check an old or current flame )</p>
-</blockquote>
+> here you can check [your or anothers birthday](https://www.thesecretlanguage.com/check/birthdate/)  
+> ( check you and a parent )  
+> and [your relationships with other people](https://www.thesecretlanguage.com/check/relationship/)  
+> ( check an old or current flame )
 
-<p><a href="http://astro.cafeastrology.com/">cafe astrology</a></p>
+[cafe astrology](https://astro.cafeastrology.com/)
 
-<blockquote>
-  <p>i personally like their <a href="http://astro.cafeastrology.com/cgi-bin/astro/natal">natal chart</a><br />
-and their <a href="http://astro.cafeastrology.com/cgi-bin/astro/comp2f">relationship chart</a></p>
-</blockquote>
+> i personally like their [natal chart](https://astro.cafeastrology.com/cgi-bin/astro/natal)  
+> and their [relationship chart](https://astro.cafeastrology.com/cgi-bin/astro/comp2f)
 
-<h3>tarot year</h3>
-<p><a href="http://www.tarotschool.com/Calculator.html">heres a easy calculator i just found</a></p>
+### tarot year
 
-<blockquote>
-  <p>for example:<br />
-i want to check for my current year<br />
-since my birthday has not happened yet, i check for last year</p>
-</blockquote>
+[heres a easy calculator i just found](https://www.tarotschool.com/Calculator.html)
 
-<p><a href="http://accessnewage.com/articles/Tarot/lottar2.htm">long description</a><br />
-<a href="http://www.cosmictarot.co.uk/discover-your-personal-year-card/">short description</a></p>
+> for example:  
+> i want to check for my current year  
+> since my birthday has not happened yet, i check for last year
 
-<p><a href="http://thetarotroom.com/tarot-growth-cards/">this site has more descriptions</a> <br />
-but you have to know your number, use calc above</p>
+[long description](https://accessnewage.com/articles/Tarot/lottar2.htm)  
+[short description](https://www.cosmictarot.co.uk/discover-your-personal-year-card/)
+
+[this site has more descriptions](https://thetarotroom.com/tarot-growth-cards/)  
+but you have to know your number, use calc above
 
 

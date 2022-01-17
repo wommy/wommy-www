@@ -2,20 +2,12 @@
 permalink: media/popcornbulb.html
 title: Empty
 dots: '../'
+layout: _media
 ---
-{% extends '_base.html' %}
-
-{% block navMobile %}
-		<a href="../index.html">home</a><span>Experience</span><a href="../experience/branding.html">Branding</a><a href="../experience/clients.html">Clients</a><a href="../experience/resume.html">Resume</a><span>Experiments</span><a href="../experiments/feed.html">Feed</a><a href="../experiments/grid.html">Grid</a><a href="../media.html" class="selected">Media</a>
-{% endblock %}
-
-{% block navMain %}
-	<nav><h2><a href="../index.html">Home</a></h2><h2><span>Experience</span><nav><h2><a href="../experience/branding.html">Branding</a></h2><h2><a href="../experience/clients.html">Clients</a></h2><h2><a href="../experience/resume.html">Resume</a></h2></nav></h2><h2><span>Experiments</span><nav><h2><a href="../experiments/feed.html">Feed</a></h2><h2><a href="../experiments/grid.html">Grid</a></h2></nav></h2><h2 class="selected"><a href="../media.html" class="selected">Media</a></h2></nav>
-{% endblock %}
 
 {% block content %}
             
-<p>short video i acted in for <a href="clients.html#geraldHaman">gerald haman</a></p>
+short video i acted in for [gerald haman](/clients.html#geraldHaman)
 
 <iframe width="660" height="371" src="https://www.youtube.com/embed/3mkvvZc3twY?feature=oembed" frameborder="0" allowfullscreen=""></iframe>
 

@@ -3,33 +3,27 @@ permalink: inspiration/inspiration.html
 layout: _post
 ---
             
-<p>here i want to list a few words that my design exemplifies</p>
+here i want to list a few words that my design exemplifies
 
-<blockquote>
-  <p>simple<br />
-concise<br />
-clean<br />
-eloquent<br />
-minimal<br />
-transparency</p>
-</blockquote>
+> simple  
+> concise  
+> clean  
+> eloquent  
+> minimal  
+> transparency
 
-<p>and a few websites that have inspired me.</p>
+and a few websites that have inspired me.
 
-<blockquote>
-  <p><a href="http://facsrv.cdm.depaul.edu/~cmiller/">http://facsrv.cdm.depaul.edu/~cmiller/</a><br />
-- a teacher of mine, one of the first websites i encountered that put <a href="http://ims21.net/web_form_function.htm">function over form</a></p>
-</blockquote>
+> [https://facsrv.cdm.depaul.edu/~cmiller/](https://facsrv.cdm.depaul.edu/~cmiller/)  
+> - a teacher of mine, one of the first websites i encountered that put [function over form](https://ims21.net/web_form_function.htm)
 
-<blockquote>
-  <p><a href="http://itemsandthings.com/">http://itemsandthings.com/</a><br />
--  one of my favorite music labels. their brand's dedication to minimalism is conveyed thoroughly, from their music to their web design.<br />
-- <a href="http://www.wanna-rework.de/">http://www.wanna-rework.de/</a><br />
-- - one of the musicians websites on the above label </p>
-</blockquote>
+> [https://itemsandthings.com/](https://itemsandthings.com/)  
+> - one of my favorite music labels. their brand's dedication to minimalism is conveyed thoroughly, from their music to their web design.  
+> - [https://www.wanna-rework.de/](https://www.wanna-rework.de/)  
+> - - one of the musicians websites on the above label
 
-<p>and a few quotes that have inspired me</p>
+and a few quotes that have inspired me
 
-<p><a href="http://i.imgur.com/0MAncfi.png"><img src="http://i.imgur.com/0MAncfi.png" width="100%" /></a><br />
-<!-- http://www.reddit.com/r/terencemckenna/comments/32rp8t/a_quote_that_really_grabbed_me_from_terences/ --></p>
+[![](https://i.imgur.com/0MAncfi.png)](https://i.imgur.com/0MAncfi.png)
+<!-- https://www.reddit.com/r/terencemckenna/comments/32rp8t/a_quote_that_really_grabbed_me_from_terences/ -->
 

@@ -3,10 +3,10 @@ permalink: hobbies/kungfu.html
 layout: _post
 ---
             
-<p>ive been practicing kungfu for over a year now</p>
+ive been practicing kungfu for over a year now
 
-<p><a href="../media.html#wing chun videos">i have a couple videos on my media page</a></p>
+[i have a couple videos on my media page](../media.html#wing-chun-videos)
 
-<p>ive also been working on their website<br />
-you can see the entry on my <a href="../experience/clients.html#wingChun">client page here</a></p>
+ive also been working on their website  
+you can see the entry on my [client page here](../experience/clients.html#wingChun)
 

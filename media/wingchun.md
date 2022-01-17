@@ -2,29 +2,25 @@
 permalink: media/wingchun.html
 title: Empty
 dots: '../'
+layout: _media
 ---
-{% extends '_base.html' %}
-
-{% block navMobile %}
-		<a href="../index.html">home</a><span>Experience</span><a href="../experience/branding.html">Branding</a><a href="../experience/clients.html">Clients</a><a href="../experience/resume.html">Resume</a><span>Experiments</span><a href="../experiments/feed.html">Feed</a><a href="../experiments/grid.html">Grid</a><a href="../media.html" class="selected">Media</a>
-{% endblock %}
-
-{% block navMain %}
-	<nav><h2><a href="../index.html">Home</a></h2><h2><span>Experience</span><nav><h2><a href="../experience/branding.html">Branding</a></h2><h2><a href="../experience/clients.html">Clients</a></h2><h2><a href="../experience/resume.html">Resume</a></h2></nav></h2><h2><span>Experiments</span><nav><h2><a href="../experiments/feed.html">Feed</a></h2><h2><a href="../experiments/grid.html">Grid</a></h2></nav></h2><h2 class="selected"><a href="../media.html" class="selected">Media</a></h2></nav>
-{% endblock %}
 
 {% block content %}
             
-<h3>chi-sau-ing with sifu from my helmet</h3>
+### chi-sau-ing with sifu from my helmet
+
 <iframe width="640" height="360" src="https://www.youtube.com/embed/jO9N00johrw" frameborder="0" allowfullscreen=""></iframe>
 
-<h3>chi-sau-ing with sifu from my chest</h3>
+### chi-sau-ing with sifu from my chest
+
 <iframe width="640" height="360" src="https://www.youtube.com/embed/ZYu-nuwmG3M" frameborder="0" allowfullscreen=""></iframe>
 
-<h3>chi-sau-ing with sifu from his chest</h3>
+### chi-sau-ing with sifu from his chest
+
 <iframe width="640" height="360" src="https://www.youtube.com/embed/qe7le9oVrRI" frameborder="0" allowfullscreen=""></iframe>
 
-<h3>sifu going thru the first wooden dummy form</h3>
+### sifu going thru the first wooden dummy form
+
 <iframe width="640" height="360" src="https://www.youtube.com/embed/AegzO_xVyrg" frameborder="0" allowfullscreen=""></iframe>
 
 {% endblock %}
