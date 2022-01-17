@@ -1,5 +1,5 @@
 module.exports = function (c) {
-	c.addPassthroughCopy({ "_static": "assets" })
+	c.addPassthroughCopy({ "_static/*": "assets/" })
 	return {
 		htmlTemplateEngine: 'njk',
 		markdownTemplateEngine: 'njk',
