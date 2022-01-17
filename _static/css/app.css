@@ -1,7 +1,20 @@
 /* TODO: link colors - http://www.w3schools.com/cssref/css_colors_legal.asp*/
 
+
+/* Tokens
  *
  */
+
+
+:root {
+	--c-gray: #eee;
+	--c-link: hsl(220deg 90% 40%);
+	--c-link-dark: hsl(220deg 100% 40%);
+}
+
+.bg-gray {
+	var(--c-gray);
+}
 
 
 /* RESET & BASE
@@ -9,11 +22,9 @@
  */
 
 
-:root {
-}
-
 body {
 	margin: 1rem;
+	/* .bg-gray */
 	background-color: #eee;
 	font-family: tahoma, sans-serif;
 	font-variant: small-caps;
@@ -28,12 +39,12 @@ a {
 a:link,
 a:visited {
 	/*color:hsla(240, 100%, 50%, 1);*/
-	color: hsla(220, 90%, 40%, 0.8);
+	color: hsla(var(--c-link) 0.8);
 }
 
 a:hover {
 	/*color:hsla(240, 100%, 50%, .3);*/
-	color: hsla(220, 100%, 40%, 1);
+	color: hsla(var(--c-link-dark) 0.99);
 }
 
 a:active,
