@@ -3,5 +3,8 @@ module.exports = function (c) {
 	return {
 		htmlTemplateEngine: 'njk',
 		markdownTemplateEngine: 'njk',
+		dir: {
+			input: 'src',
+		}
 	}
 }
