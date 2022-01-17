@@ -83,7 +83,7 @@ h2[name] {
 
 article:target {
 	/*border: hsla(240, 100%, 50%, .3) groove thick;*/
-	border: hsla(220, 50%, 45%, 0.7) groove thick;
+	outline: hsla(220, 50%, 45%, 0.7) groove thick;
 	border-radius: 0.25rem;
 }
 
