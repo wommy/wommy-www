@@ -71,26 +71,26 @@ h3 {
 	margin-bottom: 0.5rem;
 }
 
-#mainNav,
-#content {
+.mainNav,
+.content {
 	display: inline-block;
 	vertical-align: top;
 	margin: 1rem 0;
 }
 
-#mainNav {
+.mainNav {
 	position: fixed;
 	left: 0.5rem;
 	top: 1rem;
 }
 
-#social {
+.social {
 	position: fixed;
 	bottom: 1rem;
 	text-align: left;
 }
 
-#subnav {
+.subnav {
 	position: absolute;
 	top: 0;
 	left: 10.5rem;
@@ -98,7 +98,7 @@ h3 {
 	z-index: -1;
 }
 
-#subnav .pinned {
+.subnav .pinned {
 	border-bottom: dashed 0.125rem #eee;
 	padding: 0.25rem;
 }
@@ -184,7 +184,7 @@ iframe {
 	width: 100%;
 }
 
-#content {
+.content {
 	width: 70%;
 	line-height: 1.6rem;
 	margin-top: 1rem;
@@ -201,7 +201,7 @@ iframe {
 	position: relative;
 }
 
-#content article {
+.content article {
 	padding: 2rem 3rem;
 	margin: 1rem 3rem 3rem;
 	background-color: #fff;
@@ -209,7 +209,7 @@ iframe {
 	border-radius: 1rem;
 }
 
-#grid article {
+.grid article {
 	width: 8rem;
 	padding: 2rem;
 	margin: 1rem;
