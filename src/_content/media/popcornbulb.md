@@ -1,7 +1,5 @@
 ---
 permalink: media/popcornbulb.html
-title: Empty
-dots: '../'
 layout: _media
 ---
 

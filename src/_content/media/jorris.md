@@ -1,7 +1,5 @@
 ---
 permalink: media/jorris.html
-title: Empty
-dots: '../'
 layout: _media
 ---
 

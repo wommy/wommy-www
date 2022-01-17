@@ -1,7 +1,5 @@
 ---
 permalink: media/wingchun.html
-title: Empty
-dots: '../'
 layout: _media
 ---
 

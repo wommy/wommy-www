@@ -1,7 +1,5 @@
 ---
 permalink: media/createafreshpath.html
-title: Empty
-dots: '../'
 layout: _media
 ---
 
