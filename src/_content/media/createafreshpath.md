@@ -1,7 +1,5 @@
 ---
 ---
-
-{% block content %}
             
 <iframe src="https://player.vimeo.com/video/122390839" height="385" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 
@@ -14,5 +12,3 @@ visit his website @ [https://www.couchfirefilms.com/](https://www.couchfirefilms
 
 [brooks jones](https://www.facebook.com/BrooksJonesMusic) supplied the sweet tunes  
 visit his soundcloud @ [https://soundcloud.com/tarpleybrooksjones](https://soundcloud.com/tarpleybrooksjones)
-
-{% endblock %}

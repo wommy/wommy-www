@@ -1,7 +1,5 @@
 ---
 ---
-
-{% block content %}
             
 ### chi-sau-ing with sifu from my helmet
 
@@ -18,5 +16,3 @@
 ### sifu going thru the first wooden dummy form
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/AegzO_xVyrg" frameborder="0" allowfullscreen=""></iframe>
-
-{% endblock %}

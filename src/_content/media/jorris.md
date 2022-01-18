@@ -1,7 +1,5 @@
 ---
 ---
-
-{% block content %}
             
 i've come to cherish the handful of [John Orris'](/clients.html#jOrris) films i acted in:
 
@@ -16,5 +14,3 @@ i've come to cherish the handful of [John Orris'](/clients.html#jOrris) films i 
 ### naked fierce
 
 <iframe src="//player.vimeo.com/video/106900917" width="660" height="371" frameborder="0" title="Naked - &quot;Fierce&quot;" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
-
-{% endblock %}
