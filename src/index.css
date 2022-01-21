@@ -1,0 +1,69 @@
+@tailwind base;
+@layer base {
+
+:root {
+  --pad: .75rem;
+}
+
+body {
+	margin: 1rem;
+	background-color: #eee;
+
+	font-variant: small-caps;
+	word-wrap: break-word;
+}
+
+a {
+	font-weight: bold;
+	&:link,
+	&:visited {
+		color: hsla(220, 90%, 40%, 0.8);
+	}
+	&:hover {
+		color: #0043cc;
+	}
+	&:active,
+	&:focus {
+		color: none;
+	}
+}
+
+p,
+blockquote {
+	margin-block: var(--pad);
+}
+
+blockquote {
+	margin-left: 1.5rem;
+}
+
+}
+@tailwind utilities;
+@layer utilities {
+
+.selected {
+  background-color: #fff;
+  border-radius: 0.25rem;
+}
+
+.wommyImg{
+	@apply aspect-[2/3];
+	/* height:24rem; */
+	/* width:16rem; */
+	border-radius:1rem;
+	float:right;
+	top:-4rem;
+	position: relative;
+}
+
+
+}
+@tailwind components;
+@layer components {
+
+#mainNav,
+#content {
+	margin-block: 1rem;
+}
+
+}
