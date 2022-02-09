@@ -1,12 +1,8 @@
----
-title: 'feed'
-layout: _base.html
----
             
-	<div id='feed'>
-	<article>
-	<h1>Empty</h1>
-	<p>Lorem ipsum turpis magna sociis nisi quis suspendisse aliquam sem habitant nulla. In in dolor. Ornare quis elit. Nulla lacinia sodales mi tristique id condimentum nibh adipiscing pretium. Arcu adipiscing commodo imperdiet lectus rutrum a. Id felis aliquam vel ante velit aptent imperdiet velit in. Pulvinar morbi accumsan purus volutpat lacus. Dui. 
+<div id='feed'>
+<article>
+<h1>Empty</h1>
+<p>Lorem ipsum turpis magna sociis nisi quis suspendisse aliquam sem habitant nulla. In in dolor. Ornare quis elit. Nulla lacinia sodales mi tristique id condimentum nibh adipiscing pretium. Arcu adipiscing commodo imperdiet lectus rutrum a. Id felis aliquam vel ante velit aptent imperdiet velit in. Pulvinar morbi accumsan purus volutpat lacus. Dui. 
 
 </p><p>Eget fusce et. Mi eget vel libero sit fusce gravida. Dignissim nibh nunc mauris proin in potenti arcu massa penatibus est. Turpis gravida consequat magna mi sed tellus amet gravida fusce et. Mauris nostra quisque vulputate. Felis class ultrices interdum libero. Ultrices duis interdum lacus consectetuer non sit per. Quam. 
 

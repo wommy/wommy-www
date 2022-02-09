@@ -1,9 +1,6 @@
----
-title: home
-layout: _base
----
+# hello world
 
-<article id=''>
+<!-- <article id=''>
 
 	<p><img src="/images/wommyBig.jpg" class="wommyImg" /></p>
 
@@ -169,4 +166,4 @@ but you have to know your number, use calc above
 	</div>
 
 </article>
-
+ -->

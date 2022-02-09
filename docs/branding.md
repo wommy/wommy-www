@@ -1,7 +1,3 @@
----
-title: branding
-layout: _base
----
 
 froggie92 came about via [runescape](https://runescape.com)
 

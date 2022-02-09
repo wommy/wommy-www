@@ -1,10 +1,3 @@
----
-title: clients
-layout: _base
----
-
-
-
 
 i've been practicing kungfu for over a year now  
 the brand is currently overhauling everything  

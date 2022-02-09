@@ -1,8 +1,4 @@
----
-title: resume
-layout: _base
----
-            
+
 <!-- 
 <a href="../assets/resume-tommyWilliams-headshot.pdf" target="_blank">view in a new tab</a> -  <a href="../assets/resume-tommyWilliams-headshot.pdf" download>download</a>
 -->
