@@ -7,8 +7,6 @@ layout: _base
 
 	<p><img src="/images/wommyBig.jpg" class="wommyImg" /></p>
 
-	{% renderTemplate "md" %}
-
 ## welcome to my portfolio
 
 feel free to check out
@@ -21,14 +19,10 @@ feel free to check out
 > > [feed](/experiments/feed/)  
 > > [grid](/experiments/grid/)
 
-	{% endrenderTemplate %}
-
 </article>
 
 <article id='inspiration'>
 	<h2><a href="#inspiration">inspiration</a></h2>
-
-	{% renderTemplate "md" %}
 
 here i want to list a few words that my design exemplifies
 
@@ -54,8 +48,6 @@ and a few quotes that have inspired me
 [![](https://i.imgur.com/0MAncfi.png)](https://i.imgur.com/0MAncfi.png)  
 <!-- https://www.reddit.com/r/terencemckenna/comments/32rp8t/a_quote_that_really_grabbed_me_from_terences/ -->
 
-	{% endrenderTemplate %}
-
 </article>
 
 <article id='hobbies'>
@@ -63,21 +55,15 @@ and a few quotes that have inspired me
 
 	<div id="biking">
 
-	{% renderTemplate "md" %}
-
 ## biking
 
 this will be my 6th year biking in chicago
 
 check out my biking video [here](/media/#create-a-fresh-path)
 
-	{% endrenderTemplate %}
-
 	</div>
 
 	<div id="kungfu">
-
-	{% renderTemplate "md" %}
 
 ## kungfu
 
@@ -88,13 +74,9 @@ ive been practicing kungfu for over a year now
 ive also been working on their website  
 you can see the entry on my [client page here](/experience/clients/#wingChun)
 
-	{% endrenderTemplate %}
-
 	</div>
 
 	<div id="psych">
-
-	{% renderTemplate "md" %}
 
 ## psych
 
@@ -183,8 +165,6 @@ my number one to-go-to
 
 [this site has more descriptions](https://thetarotroom.com/tarot-growth-cards/)  
 but you have to know your number, use calc above
-
-	{% endrenderTemplate %}
 
 	</div>
 

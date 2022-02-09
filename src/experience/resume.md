@@ -1,5 +1,6 @@
 ---
-tags: resume
+title: resume
+layout: _base
 ---
             
 <!-- 
