@@ -43,7 +43,7 @@ and a few websites that have inspired me.
 and a few quotes that have inspired me
 
 [![](https://i.imgur.com/0MAncfi.png)](https://i.imgur.com/0MAncfi.png)  
-<!-- https://www.reddit.com/r/terencemckenna/comments/32rp8t/a_quote_that_really_grabbed_me_from_terences/ -->
+https://www.reddit.com/r/terencemckenna/comments/32rp8t/a_quote_that_really_grabbed_me_from_terences/
 
 </article>
 
@@ -81,7 +81,7 @@ my psych career is long and winding
 
 my first introduction to psychology was through [myers briggs](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator)
 
-<!-- 
+
 growing up, 
 the idea of &#39;everyone is equal&#39; was understood as &#39;everyone is the same&#39;
 myers briggs gave me a framework to differentiate people&#39;s reactions
@@ -101,7 +101,7 @@ judgment / perception
 jung dichotomy
 
 sharing jungian base
- -->
+
 
 hours of trawling google led me to
 
@@ -112,12 +112,12 @@ socionics was everything i was looking for
 socionics' [rationality / irrationality](https://www.wikisocion.org/en/index.php?title=Rationality_and_irrationality#Typical_characteristics) replaces mbti's judgment / perception  
 mbti's judgment / perception still exists within socionics, but it is instead a second level dichotomy, [static / dynamic](https://www.wikisocion.org/en/index.php?title=Static_and_dynamic#Typical_characteristics)
 
-<!-- this change made huge changes
+this change made huge changes
 mbti's judgment / perception determines what your extraverted function is
 i never quite got this / it never made sense
 socionics in turn explains it well
 judgment / perception exists in socionics
-but it is a second level dichotomy,  -->
+but it is a second level dichotomy,
 
 socionics goes into much greater detail than myers briggs:
 
@@ -129,7 +129,7 @@ socionics goes into much greater detail than myers briggs:
 > [information elements](https://www.wikisocion.org/en/index.php?title=Information_elements)  
 > [functions](https://www.wikisocion.org/en/index.php?title=Functions) which allows for [functional dichotomies](https://www.wikisocion.org/en/index.php?title=Function_dichotomies)
 
-<!-- male female differentiations -->
+male female differentiations
 
 [information metabolism](https://www.wikisocion.org/en/index.php?title=Information_Metabolism) - can be simplied as follows:  
 every action you do, is based on information.
@@ -166,4 +166,5 @@ but you have to know your number, use calc above
 	</div>
 
 </article>
- -->
+
+-->
