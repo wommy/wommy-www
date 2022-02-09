@@ -1,3 +1,33 @@
 ---
 title: home
 layout: _list
+---
+
+<article id='{{ ea.fileSlug }}'>
+  <h2><a href="#{{ ea.fileSlug }}">{{ ea.fileSlug }}</a></h2>
+
+	{% renderTemplate "md" %}
+	<p><img src="/images/wommyBig.jpg" class="wommyImg" /></p>
+
+	## welcome to my portfolio
+
+	feel free to check out
+
+	> [my media](/media.html)  
+	> [my clients](/experience/clients.html)
+
+	> my experiments
+
+	> > [feed](/experiments/feed.html)  
+	> > [grid](/experiments/grid.html)
+	{% endrenderTemplate %}
+
+</article>
+
+<article id='{{ ea.fileSlug }}'>
+  <h2><a href="#{{ ea.fileSlug }}">{{ ea.fileSlug }}</a></h2>
+
+	{% renderTemplate "md" %}
+	{% endrenderTemplate %}
+
+</article>
