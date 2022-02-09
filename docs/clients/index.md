@@ -1,3 +1,7 @@
+# Clients
+
+
+## Ving Tsun Self Defense Academy
 
 i've been practicing kungfu for over a year now  
 the brand is currently overhauling everything  
@@ -6,17 +10,16 @@ from fliers to the website
 > current site: [mjvingtsun.org](https://mjvingtsun.org/)  
 > future site: [vtselfdefense.com](https://vtselfdefense.com/)
 
-
+## Gerald Haman
 
 bio
 
-solutionpeople.com  
-thinkubators.com
+[solutionpeople.com](https://solutionpeople.com)  
+[thinkubators.com](https://thinkubators.com)
 
-[popcorn bulb](/media.html#popcornBulb)
+[popcorn bulb](/brag/#popcorn-bulb)
 
-
-
+## John Orris
 
 > lived next to me my sophomore year at columbia  
 > cinematographer  
@@ -25,13 +28,12 @@ thinkubators.com
 i designed and developed his website  
 which he has since personally tweaked
 
-> [aparadi.se](https://aparadi.se)
+> [aparadi.se](http://aparadi.se)
 
 i also acted in some videos for him  
-find them on my media page [here](../media.html#john-orris-originals)
+find them on my media page [here](/brag/#john-orris-originals)
 
-
-
+## Nick Pizana
 
 an extremely talented artist  
 but also a good friend from highschool
@@ -45,48 +47,39 @@ recently has been blowing up in the detroit art scene
 i created and hosted a simple website for him  
 which we are currently overhauling
 
-> [nickpizana.technomad.media](//nickpizana.technomad.media)
+> [nickpizana.technomad.media](https://nickpizana.technomad.media)
 
 follow him on social media:
 
 > [facebook](https://www.facebook.com/nickypistheman)  
-> [instagram ( @hyper_mutant )](//instagram.com/hyper_mutant.html)
+> [instagram ( @hyper_mutant )](https://instagram.com/hyper_mutant.html)
 
+## Eight Cell
 
-
-
-> _the most simple / efficient way_  
-> _to catapault your next event_  
-> _to the stratosphere_
+> _Catapault your Event to the Stratosphere_
 
 operating out of chicago, they combine digital art, projection mapping, and interactive installs to make your event out of this world.
 
-> [facebook.com/EightCell](https://www.facebook.com/EightCell)
-
+> [facebook.com/EightCell](https://www.facebook.com/EightCell)  
 > [youtube](https://www.youtube.com/channel/UC4GsWU1uZAa5e3G1owi9K1g)
 
 heres a site a made for them a couple years ago:
-
-> [technomad.media/8c/](https://technomad.media/8c/)
-
 and heres the new underconstruction site:
 
-> [eightcell.tv](//eightcell.tv)
+> [technomad.media/8c/](https://technomad.media/8c/)  
+> [eightcell.tv](https://eightcell.tv)
 
-### meet the team:
+### Meet the Team
 
 truman - [ sophos visuals ]
 
-> [instagram.com/sophosvisuals](https://instagram.com/sophosvisuals/)
-
+> [instagram.com/sophosvisuals](https://instagram.com/sophosvisuals/)  
 > [facebook.com/sophos.visuals](https://www.facebook.com/sophos.visuals)
 
 bill - [ dubstompin / biww ]
 
-> [instagram.com/dubstompin](//instagram.com/dubstompin.html)
-
-> [soundcloud.com/dubstompin](https://soundcloud.com/dubstompin)
-
+> [instagram.com/dubstompin](https://instagram.com/dubstompin.html)  
+> [soundcloud.com/dubstompin](https://soundcloud.com/dubstompin)  
 > [facebook.com/bill.pilipchuk](https://www.facebook.com/bill.pilipchuk)  
 > [facebook.com/DubStompinChicago](https://www.facebook.com/DubStompinChicago)  
 > [facebook.com/whosbiww](https://www.facebook.com/whosbiww)
@@ -94,22 +87,16 @@ bill - [ dubstompin / biww ]
 brandyn - [ mr Zpacely ]
 
 > [instagram.com/zpacepix](https://instagram.com/zpacepix/)
-
 > [youtube](https://www.youtube.com/channel/UCdE8MPlhBRh1po3FbHFag8A)
-
 > [facebook](https://www.facebook.com/brandyn.micheal)
 
-
-
-
-
-
+## film//play
 
 the **Detroit Culture Club** contacted me  
 to create a website  
 for their latest event **film//play**
 
-> [filmPlayDetroit.technomad.media](http://filmplaydetroit.technomad.media/)
+> [filmPlayDetroit.technomad.media](https://filmplaydetroit.technomad.media/)
 
 i offered to create a digital respository  
 a hub for their digital content and contact info  
@@ -120,25 +107,4 @@ now that we've gotten to know each other
 i feel confident pushing for a more interactive user experience
 
 > [a link to its facebook event](https://www.facebook.com/events/297322957126819)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

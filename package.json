@@ -9,6 +9,16 @@
     "serve": "vitepress serve docs"
   },
   "devDependencies": {
+    "@algolia/client-search": "^4.9.1",
+    "@types/react": ">= 16.8.0 < 18.0.0",
+    "react": ">= 16.8.0 < 18.0.0",
+    "react-dom": ">= 16.8.0 < 18.0.0",
     "vitepress": "^0.21.6"
+  },
+  "peerDependencies": {
+    "@algolia/client-search": "^4.9.1",
+    "@types/react": ">= 16.8.0 < 18.0.0",
+    "react": ">= 16.8.0 < 18.0.0",
+    "react-dom": ">= 16.8.0 < 18.0.0"
   }
 }
