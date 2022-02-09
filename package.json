@@ -1,15 +1,19 @@
 {
   "name": "wommy-www",
-  "version": "6.0.0",
-  "main": "index.js",
-  "repository": "git@github.com:wommy/wommy-www.git",
-  "author": "wommy <tom@technomad.media>",
-  "license": "MIT",
+  "version": "7.0.0",
+  "main": ".eleventy.js",
+  "description": "A splendid starter for my Slinkity site!",
   "scripts": {
-    "build": "eleventy",
-    "start": "eleventy --serve --incremental --quiet"
+    "start": "slinkity --serve --incremental",
+    "build": "slinkity"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^0.12.1"
+    "@11ty/eleventy": "^1.0.0-beta.10",
+    "slinkity": "^0.6.1-canary.2",
+    "@slinkity/renderer-react": "^0.1.0"
   }
 }
