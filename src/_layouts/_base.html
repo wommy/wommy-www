@@ -1,80 +1,97 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<!-- Title block allowing child pages to override -->
-		<title>{{ title }}</title>
-		<link rel="shortcut icon" type="image/ico" href="favicon.ico" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<!-- Styles -->
-		<link href="/@root/styles/app.min.css" rel="stylesheet" /> {{ __slinkity.head | safe }}
-		<link href="/@root/styles/app-screen.min.css" rel="stylesheet" /> {{ __slinkity.head | safe }}
-		<!-- Style block allowing child pages to inject their own styles -->
-	</head>
-	<body>
-		<!-- Include -->
-		<nav id="mobileNav" onclick="toggle( 'toggleMe' )">
-			<img src="/images/hamburger.svg" id="hamburger" />
-			<nav id="toggleMe" style="display: none">
-				<a href="/" class="selected">home</a>
-				<span>Experience</span>
-				<a href="/experience/branding/">Branding</a>
-				<a href="/experience/clients/">Clients</a>
-				<a href="/experience/resume/">Resume</a>
-				<span>Experiments</span>
-				<a href="/experiments/feed/">Feed</a>
-				<a href="/experiments/grid/">Grid</a>
-				<a href="/media/">Media</a>
-			</nav>
-		</nav>
+  <head>
+    <!-- Title block allowing child pages to override -->
+    <title>{{ title }}</title>
+    <link rel="shortcut icon" type="image/ico" href="favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- Styles -->
+    <link href="/@root/styles/app.min.css" rel="stylesheet" />
+    {{ __slinkity.head | safe }}
+    <link href="/@root/styles/app-screen.min.css" rel="stylesheet" />
+    {{ __slinkity.head | safe }}
+    <!-- Style block allowing child pages to inject their own styles -->
+  </head>
+  <body>
+    <!-- Include -->
+    <nav id="mobileNav" onclick="toggle( 'toggleMe' )">
+      <img src="/images/hamburger.svg" id="hamburger" />
+      <nav id="toggleMe" style="display: none">
+        <a href="/" class="selected">home</a>
+        <span>Experience</span>
+        <a href="/experience/branding/">Branding</a>
+        <a href="/experience/clients/">Clients</a>
+        <a href="/experience/resume/">Resume</a>
+        <span>Experiments</span>
+        <a href="/experiments/feed/">Feed</a>
+        <a href="/experiments/grid/">Grid</a>
+        <a href="/media/">Media</a>
+      </nav>
+    </nav>
 
-		<div id="mainNav">
-			<nav>
-				<h2 class="selected"><a href="/" class="selected">Home</a></h2>
-				<h2><span>Experience</span></h2>
-				<nav>
-					<h2><a href="/experience/branding/">Branding</a></h2>
-					<h2><a href="/experience/clients/">Clients</a></h2>
-					<h2><a href="/experience/resume/">Resume</a></h2>
-				</nav>
-				<h2><span>Experiments</span></h2>
-				<nav>
-					<h2><a href="/experiments/feed/">Feed</a></h2>
-					<h2><a href="/experiments/grid/">Grid</a></h2>
-				</nav>
-				<h2><a href="/media/">Media</a></h2>
-			</nav>
+    <div id="mainNav">
+      <nav>
+        <h2><a {% if '/'==page.url or '/'==page.fileSlug %}class="active"{% else%}href="/"{% endif %}>Home</a></h2>
+        <h2><span>Experience</span></h2>
+        <nav>
+          <h2><a {% if '/experience/branding/'==page.url or '/experience/branding/'==page.fileSlug %}class="active"{% else%}href="/experience/branding/"{% endif %}>Branding</a></h2>
+          <h2><a {% if '/experience/clients/'==page.url or '/experience/clients/'==page.fileSlug %}class="active"{% else%}href="/experience/clients/"{% endif %}>Clients</a></h2>
+          <h2><a {% if '/experience/resume/'==page.url or '/experience/resume/'==page.fileSlug %}class="active"{% else%}href="/experience/resume/"{% endif %}>Resume</a></h2>
+        </nav>
+        <h2><span>Experiments</span></h2>
+        <nav>
+          <h2><a {% if '/experiments/feed/'==page.url or '/experiments/feed/'==page.fileSlug %}class="active"{% else%}href="/experiments/feed/"{% endif %}>Feed</a></h2>
+          <h2><a {% if '/experiments/grid/'==page.url or '/experiments/grid/'==page.fileSlug %}class="active"{% else%}href="/experiments/grid/"{% endif %}>Grid</a></h2>
+        </nav>
+        <h2><a {% if '/media/'==page.url or '/media/'==page.fileSlug %}class="active"{% else%}href="/media/"{% endif %}>Media</a></h2>
+      </nav>
 
-			<nav id="social">
-				<h2>contact</h2>
+      <nav id="social">
+        <h2>contact</h2>
 
-				<a href="mailto:tom@technomad.media?Subject=Job | from wommytilliams.com" target="_blank">
-					<img class="social" src="/images/social/email.svg" />
-					<h2>tom@technomad.media</h2>
-				</a>
+        <a
+          href="mailto:tom@technomad.media?Subject=Job | from wommytilliams.com"
+          target="_blank"
+        >
+          <img class="social" src="/images/social/email.svg" />
+          <h2>tom@technomad.media</h2>
+        </a>
 
-				<a href="#" onclick=" noDiscriminate(' https://www.facebook.com/Froggie92 ') ">
-					<img class="social" src="/images/social/facebook.svg" />
-					<h2>facebook</h2>
-				</a>
-				<a href="#" onclick=" noDiscriminate(' https://twitter.com/froggie92 ') ">
-					<img class="social" src="/images/social/twitter.svg" />
-					<h2>twitter</h2>
-				</a>
-				<a href="#" onclick=" noDiscriminate(' https://plus.google.com/u/0/118102255716845472363/posts ') ">
-					<img class="social" src="/images/social/google-plus.svg" />
-					<h2>google+</h2>
-				</a>
-				<a href="#" onclick=" noDiscriminate(' https://instagram.com/wommytilliams/ ') ">
-					<img class="social" src="/images/social/instagram.svg" />
-					<h2>instagram</h2>
-				</a>
-			</nav>
-		</div>
+        <a
+          href="#"
+          onclick=" noDiscriminate(' https://www.facebook.com/Froggie92 ') "
+        >
+          <img class="social" src="/images/social/facebook.svg" />
+          <h2>facebook</h2>
+        </a>
+        <a
+          href="#"
+          onclick=" noDiscriminate(' https://twitter.com/froggie92 ') "
+        >
+          <img class="social" src="/images/social/twitter.svg" />
+          <h2>twitter</h2>
+        </a>
+        <a
+          href="#"
+          onclick=" noDiscriminate(' https://plus.google.com/u/0/118102255716845472363/posts ') "
+        >
+          <img class="social" src="/images/social/google-plus.svg" />
+          <h2>google+</h2>
+        </a>
+        <a
+          href="#"
+          onclick=" noDiscriminate(' https://instagram.com/wommytilliams/ ') "
+        >
+          <img class="social" src="/images/social/instagram.svg" />
+          <h2>instagram</h2>
+        </a>
+      </nav>
+    </div>
 
-		<!-- Content block, child page inject content -->
-		<div id="content"> {{ content | safe }} </div>
+    <!-- Content block, child page inject content -->
+    <div id="content">{{ content | safe }}</div>
 
-		<!-- Script block allowing child pages to inject their own scripts -->
-		<script src="/@root/scripts/app.min.js"></script>
-	</body>
+    <!-- Script block allowing child pages to inject their own scripts -->
+    <script src="/@root/scripts/app.min.js"></script>
+  </body>
 </html>
