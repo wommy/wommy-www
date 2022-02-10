@@ -2,13 +2,19 @@
 title: 'grid'
 layout: _base.html
 ---
-            
-	<div id='grid'>
+
+<div id='grid'>
+
 {%- for ea in range(9) %}
-	<article>
-	<img src="http://imgsrc.me/100x100/FF6600/000000" alt="" />
-	<h3>Empty</h3>
-	<p>Lorem ipsum tellus adipiscing massa vivamus velit lacus.</p>
+
+<article>
+<div style="height: 100px; width: 100px; background-color: #F60;"></div>
+
+### empty
+
+Lorem ipsum tellus adipiscing massa vivamus velit lacus.
+
 </article>
 {%- endfor %}
+
 </div>

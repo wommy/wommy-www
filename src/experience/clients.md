@@ -3,8 +3,8 @@ title: clients
 layout: _base
 ---
 
-
-
+<article id='wingchun'>
+	<h2><a href="#wingchun">wingchun</a></h2>
 
 i've been practicing kungfu for over a year now  
 the brand is currently overhauling everything  
@@ -13,17 +13,22 @@ from fliers to the website
 > current site: [mjvingtsun.org](https://mjvingtsun.org/)  
 > future site: [vtselfdefense.com](https://vtselfdefense.com/)
 
+</article>
 
+<article id='geraldhaman'>
+	<h2><a href="#geraldhaman">geraldhaman</a></h2>
 
 bio
 
 solutionpeople.com  
 thinkubators.com
 
-[popcorn bulb](/media.html#popcornBulb)
+[popcorn bulb](/media/#popcorn-bulb)
 
+</article>
 
-
+<article id='jorris'>
+	<h2><a href="#jorris">jorris</a></h2>
 
 > lived next to me my sophomore year at columbia  
 > cinematographer  
@@ -35,10 +40,12 @@ which he has since personally tweaked
 > [aparadi.se](https://aparadi.se)
 
 i also acted in some videos for him  
-find them on my media page [here](../media.html#john-orris-originals)
+find them on my media page [here](/media/#john-orris-originals)
 
+</article>
 
-
+<article id='nickpizana'>
+	<h2><a href="#nickpizana">nickpizana</a></h2>
 
 an extremely talented artist  
 but also a good friend from highschool
@@ -57,10 +64,12 @@ which we are currently overhauling
 follow him on social media:
 
 > [facebook](https://www.facebook.com/nickypistheman)  
-> [instagram ( @hyper_mutant )](//instagram.com/hyper_mutant.html)
+> [instagram ( @hyper_mutant )](//instagram.com/hyper_mutant)
 
+</article>
 
-
+<article id='eightcell'>
+	<h2><a href="#eightcell">eightcell</a></h2>
 
 > _the most simple / efficient way_  
 > _to catapault your next event_  
@@ -90,7 +99,7 @@ truman - [ sophos visuals ]
 
 bill - [ dubstompin / biww ]
 
-> [instagram.com/dubstompin](//instagram.com/dubstompin.html)
+> [instagram.com/dubstompin](//instagram.com/dubstompin)
 
 > [soundcloud.com/dubstompin](https://soundcloud.com/dubstompin)
 
@@ -106,11 +115,10 @@ brandyn - [ mr Zpacely ]
 
 > [facebook](https://www.facebook.com/brandyn.micheal)
 
+</article>
 
-
-
-
-
+<article id='film//play'>
+	<h2><a href="#film//play">film//play</a></h2>
 
 the **Detroit Culture Club** contacted me  
 to create a website  
@@ -128,24 +136,4 @@ i feel confident pushing for a more interactive user experience
 
 > [a link to its facebook event](https://www.facebook.com/events/297322957126819)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</article>
