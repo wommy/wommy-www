@@ -6,16 +6,18 @@
         <title>{{ title }}</title>
         <link rel="shortcut icon" type="image/ico" href="https://res.cloudinary.com/wommy/image/upload/v1645070715/wommy/favicon_jhjjaa.ico" />
         <meta name="viewport" content="width=device-width, initial-scale=1">
+				<meta name="description" content="Wommy's Website" />
         <!-- Styles -->
         <link href="{{ dots }}assets/css/app.min.css" rel="stylesheet" type="text/css" media="all"/>
         <link href="{{ dots }}assets/css/app-screen.min.css" rel="stylesheet" type="text/css" media="all"/>
         <!-- Style block allowing child pages to inject their own styles -->
         
+		<meta rel="canonical" href="https://wommy.io" />
     </head>
     <body>
         <!-- Include -->
         <nav id="mobileNav" onclick="toggle( 'toggleMe' )">
-	<img src='https://res.cloudinary.com/wommy/image/upload/v1645059974/wommy/image/hamburger_zdofli.svg' id="hamburger"/>
+	<img src="/img/solid-bars.svg" id="hamburger" width="64" height="64" alt="hamburger icon" loading="lazy" decoding="async" >
 	<nav id="toggleMe" style="display:none;">{% block navMobile %}{% endblock %}	</nav>
 </nav>
         <div id="mainNav">
@@ -24,24 +26,24 @@
 	<h2>contact</h2>
 	
 	<a href='mailto:tom@technomad.media?Subject=Job | from wommytilliams.com' target="_blank">
-		<img class='social' src='https://res.cloudinary.com/wommy/image/upload/v1645060208/wommy/image/social/email_zsygvp.svg'>
+		<img src='/img/solid-envelope.svg' class='social' height="28" width="28" alt="envelope icon" loading="lazy" decoding="async">
 		<h2>tom@technomad.media</h2>
 	</a>
 	
 	<a href='#' onclick=" noDiscriminate(' https://www.facebook.com/Froggie92 ') ">
-		<img class='social' src='https://res.cloudinary.com/wommy/image/upload/v1645060208/wommy/image/social/facebook_vfvdh1.svg'>
+		<img src='/img/brands-facebook.svg' class='social' height="28" width="28" alt="facebook icon" loading="lazy" decoding="async">
 		<h2>facebook</h2>
 	</a>
 	<a href='#' onclick=" noDiscriminate(' http://twitter.com/froggie92 ') ">
-		<img class='social' src='https://res.cloudinary.com/wommy/image/upload/v1645060208/wommy/image/social/twitter_rjzzca.svg'>
+		<img src='/img/brands-twitter.svg' class='social' height="28" width="28" alt="twitter icon" loading="lazy" decoding="async">
 		<h2>twitter</h2>
 	</a>
 	<a href='#' onclick=" noDiscriminate(' https://plus.google.com/u/0/118102255716845472363/posts ') ">
-		<img class='social' src='https://res.cloudinary.com/wommy/image/upload/v1645060208/wommy/image/social/google-plus_fsif2s.svg'>
+		<img src='/img/brands-google-plus.svg' class='social' height="28" width="28" alt="google plus icon" loading="lazy" decoding="async">
 		<h2>google+</h2>
 	</a>
 	<a href='#' onclick=" noDiscriminate(' https://instagram.com/wommytilliams/ ') ">
-		<img class='social' src='https://res.cloudinary.com/wommy/image/upload/v1645060208/wommy/image/social/instagram_a9yrkv.svg'>
+		<img src='/img/brands-instagram.svg' class='social' height="28" width="28" alt="instagram icon" loading="lazy" decoding="async">
 		<h2>instagram</h2>
 	</a>
 </nav>
