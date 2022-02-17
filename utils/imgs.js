@@ -2,26 +2,22 @@ const Image = require('@11ty/eleventy-img')
 
 module.exports = async name =>
   Image.generateHTML(
-    await Image(
-      `https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/${name}.svg`,
-      {
-        widths: [64, null],
-        formats: ['svg'],
-        svgShortCircuit: true,
-        cacheOptions: {
-          duration: '1d',
-          directory: '.cache',
-          type: 'svg',
+    console.log(
+      await Image(
+        `https://res.cloudinary.com/wommy/image/upload/${name}`,
+        {
+          widths: [400, null],
+          formats: ['avif','webp'],
+          filenameFormat: function(_hash, _src, width, format, _options) {
+            return `${name.split('/')[3]}-${width}.${format}`
+          },
         },
-				filenameFormat: function(_hash, _src, _width, format, _options) {
-					return `${name.replace('/','-')}.${format}`
-				},
+      ),
+      {
+        alt: `${name.split('/')[3].split('_')[0]}`,
+        loading: 'lazy',
+        decoding: 'async',
+        // id: 'hamburger',
       },
-    ),
-    {
-      alt: 'hamburger icon',
-      loading: 'lazy',
-      decoding: 'async',
-      id: 'hamburger',
-    },
+    )
   )
