@@ -8,5 +8,8 @@
   "scripts": {
     "start": "pnpx @11ty/eleventy --serve --incremental",
     "publish": "ntl deploy _site --prod --open"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0"
   }
 }
