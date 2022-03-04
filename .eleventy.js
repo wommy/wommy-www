@@ -6,9 +6,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig
     .addPassthroughCopy({
       'public/favicon.ico': './favicon.ico',
-      'public/css': './assets/css',
-      'public/img': './assets/img',
-      'public/scripts': './assets/scripts',
+      'public/css': './_css',
+      'public/img': './_img',
+      'public/scripts': './_scripts',
     })
   return {
     htmlTemplateEngine: 'njk',

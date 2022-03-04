@@ -1,5 +1,7 @@
 node_modules
-_site/assets
+_site/_css
+_site/_img
+_site/_scripts
 
 # Local Netlify folder
 .netlify
