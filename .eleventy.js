@@ -10,6 +10,9 @@ module.exports = function (eleventyConfig) {
     })
   return {
     htmlTemplateEngine: 'njk',
-    dir: { input: 'src' },
+    dir: { 
+      input: 'src',
+      output: 'dist',
+    },
   }
 }

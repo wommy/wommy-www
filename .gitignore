@@ -1,5 +1,5 @@
 node_modules
-_site/_img
+dist/_img
 
 # Local Netlify folder
 .netlify
