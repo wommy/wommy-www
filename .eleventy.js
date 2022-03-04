@@ -3,7 +3,13 @@
  * @returns {ReturnType<import('@11ty/eleventy/src/defaultConfig')>}
  */
 module.exports = function (eleventyConfig) {
-  eleventyConfig.addPassthroughCopy('assets')
+  eleventyConfig
+    .addPassthroughCopy({
+      'public/favicon.ico': './favicon.ico',
+      'public/css': './assets/css',
+      'public/img': './assets/img',
+      'public/scripts': './assets/scripts',
+    })
   return {
     htmlTemplateEngine: 'njk',
     dir: { input: 'src' },
