@@ -6,8 +6,268 @@
         <link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Styles -->
-        <link href="/_css/app.min.css" rel="stylesheet" type="text/css" media="all"/>
-        <link href="/_css/app-screen.min.css" rel="stylesheet" type="text/css" media="all"/>
+				<style>
+/* app.css */
+/* TODO: link colors - http://www.w3schools.com/cssref/css_colors_legal.asp*/
+
+body{
+	margin:1rem;
+	background-color: #EEE;
+	font-family:tahoma,sans-serif;
+	font-variant:small-caps;
+	word-wrap:break-word;
+}
+
+a{
+	text-decoration:none;
+	font-weight:bold;
+}
+
+h3{
+	border-bottom:solid .125rem black;
+	font-weight:normal;
+	padding-left: 2.5rem;
+	margin:2rem 0;
+	font-size:2rem;
+	padding-bottom:.25rem;
+	margin-bottom:.5rem;
+}
+
+p{
+	margin:.75rem 0;
+}
+
+blockquote{
+	margin:.75rem 0;
+	margin-left:1.5rem;
+}
+
+#mainNav, #content{
+	display:inline-block;
+	vertical-align: top;
+	margin:1rem 0;
+}
+
+#mainNav{
+	position:fixed;
+	left:.5rem;
+	top:1rem;
+}
+
+	#social{
+		position:fixed;
+		bottom:1rem;
+		text-align:left;
+	}
+
+	#subnav{
+		position:absolute;
+		top:0;
+		left:10.5rem;
+		border-right:none;
+		z-index:-1;
+	}
+
+		#subnav .pinned{
+			border-bottom:dashed .125rem #EEE;
+			padding:.25rem;
+		}
+
+		nav a, nav h2, h2 span{
+			display:block;
+			padding:.125rem .5rem;
+			width: auto;
+			margin:0;
+			font-size:1.25rem;
+		}
+
+		h2 nav{
+			margin-left:1rem;
+		}
+
+		a:link, a:visited {
+			/*color:hsla(240, 100%, 50%, 1);*/
+			color:hsla(220, 90%, 40%, .8);
+		}
+
+		a:hover{
+			/*color:hsla(240, 100%, 50%, .3);*/
+			color:hsla(220, 100%, 40%, 1);
+		}
+
+		a:active, a:focus{
+			color:none;
+		}
+
+			a[name], h2[name]{
+				text-decoration:underline;
+			}
+
+			:target{
+				/*background-color:hsla(240, 100%, 50%, .3);*/
+				background-color:hsla(220, 75%, 45%, .7);
+			}
+
+			article:target{
+				/*border: hsla(240, 100%, 50%, .3) groove thick;*/
+				border: hsla(220, 50%, 45%, .7) groove thick;
+				border-radius:.25rem;
+			}
+
+		.selected{
+			background-color:white;
+			border-radius:.25rem;
+			/*border-right:dashed .125rem #EEE;*/
+		}
+
+			.selected a{
+				border-right:none;
+			}
+
+	a img, a h2, h2 a{
+		display:inline;
+		vertical-align: bottom;
+	}
+
+	.social{
+		width: 1.75rem;
+		height: 1.75rem;
+	}
+
+		img + h2{
+			padding-left:0;
+		}
+
+	a h2, h2 a{
+		line-height: 2rem;
+	}
+
+	iframe{
+		width:100%;
+	}
+
+#content{
+	width: 70%;
+	line-height: 1.6rem;
+	margin-top:1rem;
+	margin-left: 25%;
+	margin-bottom:0;
+}
+
+	.wommyImg{
+		height:24rem;
+		width:16rem;
+		border-radius:1rem;
+		float:right;
+		top:-4rem;
+		position: relative;
+	}
+
+	#content article{
+		padding:2rem 3rem;
+		margin:1rem 3rem 3rem;
+		background-color: #FFF;
+		font-size:125%;
+		border-radius:1rem;
+	}
+
+	#grid article{
+		width:8rem;
+		padding:2rem;
+		margin:1rem;
+		float:left;
+	}
+
+/* app-screen.css */
+@media only screen and (max-width: 800px) {
+	.wommyImg{
+		height:100%;
+		width:100%;
+		border-radius:1.5rem;
+		position:inherit;
+		float:none;
+	}
+
+	#hamburger{
+		position:fixed;
+		top:.5rem;
+		right:.5rem;
+		width:4rem;
+		height:4rem;
+		cursor:pointer;
+	}
+
+	#toggleMe{
+		background-color:hsla(220, 75%, 45%, .6);
+		border-radius:1.5rem;
+		margin:2%;
+		padding:2%;
+		left:0;
+		position:fixed;
+		top:0;
+		box-sizing:border-box;
+		height:96%;
+	}
+
+		#toggleMe span{
+			display:none;
+		}				
+
+		#toggleMe a{
+			display:block;
+			text-align:center;
+			float:left;
+			font-size:150%;
+			background-color:white;
+			margin:3%;
+			padding:4.5%;
+			border-radius:1rem;
+			width:35%;
+			
+		}
+
+	.selected{
+		background-color:yellow !important;
+		border-right:none;
+	}
+
+	body{
+		margin:0;
+		background-color:#CECECE;
+		font-size:100%;
+		word-wrap: break-word;
+	}
+
+	#content{
+		margin:0;
+		width:100%;
+	}
+
+		#content article{
+			background-color: white;
+			margin:.5rem;
+			border-radius:1.5rem;
+			padding:1rem;
+		}
+
+			article:first-child p:first-child {
+				margin:0;
+			}
+	
+	#mainNav{
+		display:none;
+	}
+
+}
+
+@media only screen and (min-width: 800px) {
+	#mobileNav{
+		display:none;
+	}
+}
+
+
+				</style>
         <!-- Style block allowing child pages to inject their own styles -->
         
     </head>
@@ -129,6 +389,27 @@ if you know tommy williams, wommy tilliams isn’t too hard to get</p>
         </div>
         <!-- Script block allowing child pages to inject their own scripts -->
         
-        <script src="/_scripts/app.min.js"></script>
+        <script>
+function noDiscriminate( obj ) {
+    var r = obj;
+    if (confirm("By continuing, you agree to not discriminate based on content.") == true) {
+        open(r, "_blank");
+    }
+}
+
+function toggle(obj) {
+	var el = document.getElementById(obj);
+	el.style.display = (el.style.display != 'none' ? 'none' : '' );
+	document.getElementById('hamburger').style.visibility = (document.getElementById('hamburger').style.visibility != '' ? '' : 'hidden' );
+}
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-66620717-1', 'auto');
+ga('send', 'pageview');
+		</script>
     </body>
 </html>
