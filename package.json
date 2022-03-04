@@ -6,7 +6,8 @@
   "author": "wommy <tom@technomad.media>",
   "license": "MIT",
   "scripts": {
-    "start": "pnpx @11ty/eleventy --serve --incremental",
+    "start": "eleventy --serve --incremental",
+    "build": "eleventy",
     "publish": "ntl deploy _site --prod --open"
   },
   "devDependencies": {
